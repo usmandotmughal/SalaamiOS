@@ -1,0 +1,32 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Ikhlas_0_Translation",
+        "transliterationKey" : "Al-Ikhlas_0_Transliteration",
+        "audioFile" : "Al-Ikhlas_0"
+    },
+    {
+        "text" : " قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "translationKey" : "Al-Ikhlas_1_Translation",
+        "transliterationKey" : "Al-Ikhlas_1_Transliteration",
+        "audioFile" : "Al-Ikhlas_1"
+    },
+    {
+        "text" : "اللَّهُ الصَّمَدُ",
+        "translationKey" : "Al-Ikhlas_2_Translation",
+        "transliterationKey" : "Al-Ikhlas_2_Transliteration",
+        "audioFile" : "Al-Ikhlas_2"
+    },
+    {
+        "text" : "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "translationKey" : "Al-Ikhlas_3_Translation",
+        "transliterationKey" : "Al-Ikhlas_3_Transliteration",
+        "audioFile" : "Al-Ikhlas_3"
+    },
+    {
+        "text" : " وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "translationKey" : "Al-Ikhlas_4_Translation",
+        "transliterationKey" : "Al-Ikhlas_4_Transliteration",
+        "audioFile" : "Al-Ikhlas_4"
+    }
+]

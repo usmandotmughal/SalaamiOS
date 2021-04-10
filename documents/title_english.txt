@@ -1,0 +1,16 @@
+"Ad-DuhaaSurahTranslationKey" = "Ad-Duhaa";
+"Al-A'laSurahTranslationKey" = "Al-A'la";
+"Al-AdiyatSurahTranslationKey" = "Al-Adiyat";
+"Al-AlaqSurahTranslationKey" = "Al-Alaq";
+"Al-BaladSurahTranslationKey" = "Al-Balad";
+"Al-BayyinahSurahTranslationKey" = "Al-Bayyinah";
+"Al-FajrSurahTranslationKey" = "Al-Fajr";
+"Al-FalaqSurahTranslationKey" = "Al-Falaq";
+"Al-FatihaSurahTranslationKey" = "Al-Fatiha";
+"Al-FilSurahTranslationKey" = "Al-FilSurah";
+"Al-GhashiyahSurahTranslationKey" = "Al-Ghashiyah";
+"Al-LaylSurahTranslationKey" = "Al-Layl";
+"Ash-ShamsSurahTranslationKey" = "Ash-Shams";
+"Ash-SharhSurahTranslationKey" = "Ash-Sharh";
+"At-TariqSurahTranslationKey" = "At-Tariq";
+"Al-MasadSurahTranslationKey" = "Al-Masad";

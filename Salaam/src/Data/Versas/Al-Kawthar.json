@@ -1,0 +1,26 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Kawthar_0_Translation",
+        "transliterationKey" : "Al-Kawthar_0_Transliteration",
+        "audioFile" : "Al-Kawthar_0"
+    },
+    {
+        "text" : "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "translationKey" : "Al-Kawthar_1_Translation",
+        "transliterationKey" : "Al-Kawthar_1_Transliteration",
+        "audioFile" : "Al-Kawthar_1"
+    },
+    {
+        "text" : "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "translationKey" : "Al-Kawthar_2_Translation",
+        "transliterationKey" : "Al-Kawthar_2_Transliteration",
+        "audioFile" : "Al-Kawthar_2"
+    },
+    {
+        "text" : "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "translationKey" : "Al-Kawthar_3_Translation",
+        "transliterationKey" : "Al-Kawthar_3_Transliteration",
+        "audioFile" : "Al-Kawthar_3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "An-Nasr_0_Translation",
+        "transliterationKey" : "An-Nasr_0_Transliteration",
+        "audioFile" : "An-Nasr_0"
+    },
+    {
+        "text" : " إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "translationKey" : "An-Nasr_1_Translation",
+        "transliterationKey" : "An-Nasr_1_Transliteration",
+        "audioFile" : "An-Nasr_1"
+    },
+    {
+        "text" : "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+        "translationKey" : "An-Nasr_2_Translation",
+        "transliterationKey" : "An-Nasr_2_Transliteration",
+        "audioFile" : "An-Nasr_2"
+    },
+    {
+        "text" : "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+        "translationKey" : "An-Nasr_3_Translation",
+        "transliterationKey" : "An-Nasr_3_Transliteration",
+        "audioFile" : "An-Nasr_3"
+    }
+]

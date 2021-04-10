@@ -1,0 +1,233 @@
+[
+    {
+        "iconName" : "Al-Fatiha",
+        "logoName" : "Al-Fatiha-Logo",
+        "name" : "Al-Fatiha",
+        "translationKey" : "Al-FatihaSurahTranslationKey"
+    },
+    {
+        "iconName" : "An-Nas",
+        "logoName" : "An-Nas-Logo",
+        "name" : "An-Nas",
+        "translationKey" : "An-NasSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Falaq",
+        "logoName" : "Al-Falaq-Logo",
+        "name" : "Al-Falaq",
+        "translationKey" : "Al-FalaqSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Ikhlas",
+        "logoName" : "Al-Ikhlas-Logo",
+        "name" : "Al-Ikhlas",
+        "translationKey" : "Al-IkhlasSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Masad",
+        "logoName" : "Al-Masad-Logo",
+        "name" : "Al-Masad",
+        "translationKey" : "Al-MasadSurahTranslationKey"
+    },
+    {
+        "iconName" : "An-Nasr",
+        "logoName" : "An-Nasr-Logo",
+        "name" : "An-Nasr",
+        "translationKey" : "An-NasrSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Kafirun",
+        "logoName" : "Al-Kafirun-Logo",
+        "name" : "Al-Kafirun",
+        "translationKey" : "Al-KafirunSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Kawthar",
+        "logoName" : "Al-Kawthar-Logo",
+        "name" : "Al-Kawthar",
+        "translationKey" : "Al-KawtharSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Ma'un",
+        "logoName" : "Al-Ma'un-Logo",
+        "name" : "Al-Ma'un",
+        "translationKey" : "Al-Ma'unSurahTranslationKey"
+    },
+    {
+        "iconName" : "Quraysh",
+        "logoName" : "Quraysh-Logo",
+        "name" : "Quraysh",
+        "translationKey" : "QurayshSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Fil",
+        "logoName" : "Al-Fil-Logo",
+        "name" : "Al-Fil",
+        "translationKey" : "Al-FilSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Humazah",
+        "logoName" : "Al-Humazah-Logo",
+        "name" : "Al-Humazah",
+        "translationKey" : "Al-HumazahSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-'Asr",
+        "logoName" : "Al-'Asr-Logo",
+        "name" : "Al-'Asr",
+        "translationKey" : "Al-'AsrSurahTranslationKey"
+    },
+    {
+        "iconName" : "At-Takathur",
+        "logoName" : "At-Takathur-Logo",
+        "name" : "At-Takathur",
+        "translationKey" : "At-TakathurSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Qari’ah",
+        "logoName" : "Al-Qari’ah-Logo",
+        "name" : "Al-Qari’ah",
+        "translationKey" : "Al-Qari’ahSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-'Adiyat",
+        "logoName" : "Al-'Adiyat-Logo",
+        "name" : "Al-'Adiyat",
+        "translationKey" : "Al-'AdiyatSurahTranslationKey"
+    },
+    {
+        "iconName" : "Az-Zalzalah",
+        "logoName" : "Az-Zalzalah-Logo",
+        "name" : "Az-Zalzalah",
+        "translationKey" : "Az-ZalzalahSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Bayyinah",
+        "logoName" : "Al-Bayyinah-Logo",
+        "name" : "Al-Bayyinah",
+        "translationKey" : "Al-BayyinahSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Qadr",
+        "logoName" : "Al-Qadr-Logo",
+        "name" : "Al-Qadr",
+        "translationKey" : "Al-QadrSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-'Alaq",
+        "logoName" : "Al-'Alaq-Logo",
+        "name" : "Al-'Alaq",
+        "translationKey" : "Al-'AlaqSurahTranslationKey"
+    },
+    {
+        "iconName" : "At-Tin",
+        "logoName" : "At-Tin-Logo",
+        "name" : "At-Tin",
+        "translationKey" : "At-TinSurahTranslationKey"
+    },
+    {
+        "iconName" : "Ash-Sharh",
+        "logoName" : "Ash-Sharh-Logo",
+        "name" : "Ash-Sharh",
+        "translationKey" : "Ash-SharhSurahTranslationKey"
+    },
+    {
+        "iconName" : "Ad-Duhaa",
+        "logoName" : "Ad-Duhaa-Logo",
+        "name" : "Ad-Duhaa",
+        "translationKey" : "Ad-DuhaaSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Layl",
+        "logoName" : "Al-Layl-Logo",
+        "name" : "Al-Layl",
+        "translationKey" : "Al-LaylSurahTranslationKey"
+    },
+    {
+        "iconName" : "Ash-Shams",
+        "logoName" : "Ash-Shams-Logo",
+        "name" : "Ash-Shams",
+        "translationKey" : "Ash-ShamsSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Balad",
+        "logoName" : "Al-Balad-Logo",
+        "name" : "Al-Balad",
+        "translationKey" : "Al-BaladSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Fajr",
+        "logoName" : "Al-Fajr-Logo",
+        "name" : "Al-Fajr",
+        "translationKey" : "Al-FajrSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-Ghashiyah",
+        "logoName" : "Al-Ghashiyah-Logo",
+        "name" : "Al-Ghashiyah",
+        "translationKey" : "Al-GhashiyahSurahTranslationKey"
+    },
+    {
+        "iconName" : "Al-A'la",
+        "logoName" : "Al-A'la-Logo",
+        "name" : "Al-A'la",
+        "translationKey" : "Al-A'laSurahTranslationKey"
+    },
+    {
+        "iconName" : "At-Tariq",
+        "logoName" : "At-Tariq-Logo",
+        "name" : "At-Tariq",
+        "translationKey" : "At-TariqSurahTranslationKey"
+    }
+    
+    ,
+        
+    {
+        "name": "Al-Buruj",
+        "iconName": "Al-Burooj",
+        "logoName": "Al-Burooj-Logo",
+        "translationKey": "Al-BuroojSurahTranslationKey"
+    },
+    {
+        "name": "Al-Inshiqaq",
+        "iconName": "Al-Inshiqaq",
+        "logoName": "Al-Inshiqaq-Logo",
+        "translationKey": "Al-InshiqaqSurahTranslationKey"
+    },
+    {
+        "name": "Al-Mutaffifin",
+        "iconName": "Al-Mutaffifin",
+        "logoName": "Al-Mutaffifin-Logo",
+        "translationKey": "Al-MutaffifinSurahTranslationKey"
+    },
+    {
+        "name": "Al-Infitar",
+        "iconName": "Al-Infitar",
+        "logoName": "Al-Infitar-Logo",
+        "translationKey": "Al-InfitarSurahTranslationKey"
+    },
+    {
+        "name":"At-Takwir",
+        "iconName": "At-Takwir",
+        "logoName": "At-Takwir-Logo",
+        "translationKey": "At-TakwirSurahTranslationKey"
+    },
+    {
+        "name": "’Abasa",
+        "iconName": "Abasa",
+        "logoName": "Abasa-Logo",
+        "translationKey": "AbasaSurahTranslationKey"
+    },
+    {
+        "name": "An-Nazi’at",
+        "iconName": "An-Naziat",
+        "logoName": "An-Naziat-Logo",
+        "translationKey": "An-NaziatSurahTranslationKey"
+    },
+    {
+        "name": "An-Naba",
+        "iconName": "An-Naba",
+        "logoName": "An-Naba-Logo",
+        "translationKey": "An-NabaSurahTranslationKey"
+    }
+]

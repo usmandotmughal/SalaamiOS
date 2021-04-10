@@ -1,0 +1,38 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Masad_0_Translation",
+        "transliterationKey" : "Al-Masad_0_Transliteration",
+        "audioFile" : "Al-Masad_0"
+    },
+    {
+        "text" : "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+        "translationKey" : "Al-Masad_1_Translation",
+        "transliterationKey" : "Al-Masad_1_Transliteration",
+        "audioFile" : "Al-Masad_1"
+    },
+    {
+        "text" : "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+        "translationKey" : "Al-Masad_2_Translation",
+        "transliterationKey" : "Al-Masad_2_Transliteration",
+        "audioFile" : "Al-Masad_2"
+    },
+    {
+        "text" : "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+        "translationKey" : "Al-Masad_3_Translation",
+        "transliterationKey" : "Al-Masad_3_Transliteration",
+        "audioFile" : "Al-Masad_3"
+    },
+    {
+        "text" : "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+        "translationKey" : "Al-Masad_4_Translation",
+        "transliterationKey" : "Al-Masad_4_Transliteration",
+        "audioFile" : "Al-Masad_4"
+    },
+    {
+        "text" : "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+        "translationKey" : "Al-Masad_5_Translation",
+        "transliterationKey" : "Al-Masad_5_Transliteration",
+        "audioFile" : "Al-Masad_5"
+    }
+]

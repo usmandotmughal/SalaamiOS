@@ -1,0 +1,262 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Abasa_0_Translation",
+        "transliterationKey" : "Abasa_0_Transliteration",
+        "audioFile" : "Abasa_0"
+    },
+    {
+        "text" : "عَبَسَ وَتَوَلَّىٰ",
+        "translationKey" : "Abasa_1_Translation",
+        "transliterationKey" : "Abasa_1_Transliteration",
+        "audioFile" : "Abasa_1"
+    },
+    {
+        "text" : "أَنْ جَاءَهُ الْأَعْمَىٰ",
+        "translationKey" : "Abasa_2_Translation",
+        "transliterationKey" : "Abasa_2_Transliteration",
+        "audioFile" : "Abasa_2"
+    },
+    {
+        "text" : "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+        "translationKey" : "Abasa_3_Translation",
+        "transliterationKey" : "Abasa_3_Transliteration",
+        "audioFile" : "Abasa_3"
+    },
+    {
+        "text" : "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+        "translationKey" : "Abasa_4_Translation",
+        "transliterationKey" : "Abasa_4_Transliteration",
+        "audioFile" : "Abasa_4"
+    },
+    {
+        "text" : "أَمَّا مَنِ اسْتَغْنَىٰ",
+        "translationKey" : "Abasa_5_Translation",
+        "transliterationKey" : "Abasa_5_Transliteration",
+        "audioFile" : "Abasa_5"
+    },
+    {
+        "text" : "فَأَنْتَ لَهُ تَصَدَّىٰ",
+        "translationKey" : "Abasa_6_Translation",
+        "transliterationKey" : "Abasa_6_Transliteration",
+        "audioFile" : "Abasa_6"
+    },
+    {
+        "text" : "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+        "translationKey" : "Abasa_7_Translation",
+        "transliterationKey" : "Abasa_7_Transliteration",
+        "audioFile" : "Abasa_7"
+    },
+    {
+        "text" : "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+        "translationKey" : "Abasa_8_Translation",
+        "transliterationKey" : "Abasa_8_Transliteration",
+        "audioFile" : "Abasa_8"
+    },
+    
+    {
+        "text" : "وَهُوَ يَخْشَىٰ",
+        "translationKey" : "Abasa_9_Translation",
+        "transliterationKey" : "Abasa_9_Transliteration",
+        "audioFile" : "Abasa_9"
+    },
+    {
+        "text" : "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+        "translationKey" : "Abasa_10_Translation",
+        "transliterationKey" : "Abasa_10_Transliteration",
+        "audioFile" : "Abasa_10"
+    },
+    {
+        "text" : "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+        "translationKey" : "Abasa_11_Translation",
+        "transliterationKey" : "Abasa_11_Transliteration",
+        "audioFile" : "Abasa_11"
+    },
+    {
+        "text" : "فَمَنْ شَاءَ ذَكَرَهُ",
+        "translationKey" : "Abasa_12_Translation",
+        "transliterationKey" : "Abasa_12_Transliteration",
+        "audioFile" : "Abasa_12"
+    },
+    {
+        "text" : "فِي صُحُفٍ مُكَرَّمَةٍ",
+        "translationKey" : "Abasa_13_Translation",
+        "transliterationKey" : "Abasa_13_Transliteration",
+        "audioFile" : "Abasa_13"
+    },
+    {
+        "text" : "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+        "translationKey" : "Abasa_14_Translation",
+        "transliterationKey" : "Abasa_14_Transliteration",
+        "audioFile" : "Abasa_14"
+    },
+    {
+        "text" : "بِأَيْدِي سَفَرَةٍ",
+        "translationKey" : "Abasa_15_Translation",
+        "transliterationKey" : "Abasa_15_Transliteration",
+        "audioFile" : "Abasa_15"
+    },
+    {
+        "text" : "كِرَامٍ بَرَرَةٍ",
+        "translationKey" : "Abasa_16_Translation",
+        "transliterationKey" : "Abasa_16_Transliteration",
+        "audioFile" : "Abasa_16"
+    },
+    {
+        "text" : "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+        "translationKey" : "Abasa_17_Translation",
+        "transliterationKey" : "Abasa_17_Transliteration",
+        "audioFile" : "Abasa_17"
+    },
+    
+    {
+        "text" : "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+        "translationKey" : "Abasa_18_Translation",
+        "transliterationKey" : "Abasa_18_Transliteration",
+        "audioFile" : "Abasa_18"
+    },
+    {
+        "text" : "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+        "translationKey" : "Abasa_19_Translation",
+        "transliterationKey" : "Abasa_19_Transliteration",
+        "audioFile" : "Abasa_19"
+    },
+    {
+        "text" : "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+        "translationKey" : "Abasa_20_Translation",
+        "transliterationKey" : "Abasa_20_Transliteration",
+        "audioFile" : "Abasa_20"
+    },
+    {
+        "text" : "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+        "translationKey" : "Abasa_21_Translation",
+        "transliterationKey" : "Abasa_21_Transliteration",
+        "audioFile" : "Abasa_21"
+    },
+    {
+        "text" : "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+        "translationKey" : "Abasa_22_Translation",
+        "transliterationKey" : "Abasa_22_Transliteration",
+        "audioFile" : "Abasa_22"
+    },
+    {
+        "text" : "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+        "translationKey" : "Abasa_23_Translation",
+        "transliterationKey" : "Abasa_23_Transliteration",
+        "audioFile" : "Abasa_23"
+    },
+    {
+        "text" : "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+        "translationKey" : "Abasa_24_Translation",
+        "transliterationKey" : "Abasa_24_Transliteration",
+        "audioFile" : "Abasa_24"
+    },
+    {
+        "text" : "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+        "translationKey" : "Abasa_25_Translation",
+        "transliterationKey" : "Abasa_25_Transliteration",
+        "audioFile" : "Abasa_25"
+    },
+    {
+        "text" : "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+        "translationKey" : "Abasa_26_Translation",
+        "transliterationKey" : "Abasa_26_Transliteration",
+        "audioFile" : "Abasa_26"
+    },
+    {
+        "text" : "فَأَنْبَتْنَا فِيهَا حَبًّا",
+        "translationKey" : "Abasa_27_Translation",
+        "transliterationKey" : "Abasa_27_Transliteration",
+        "audioFile" : "Abasa_27"
+    },
+    {
+        "text" : "وَعِنَبًا وَقَضْبًا",
+        "translationKey" : "Abasa_28_Translation",
+        "transliterationKey" : "Abasa_28_Transliteration",
+        "audioFile" : "Abasa_28"
+    },
+    {
+        "text" : "وَزَيْتُونًا وَنَخْلًا",
+        "translationKey" : "Abasa_29_Translation",
+        "transliterationKey" : "Abasa_29_Transliteration",
+        "audioFile" : "Abasa_29"
+    },
+    {
+        "text" : "وَحَدَائِقَ غُلْبًا",
+        "translationKey" : "Abasa_30_Translation",
+        "transliterationKey" : "Abasa_30_Transliteration",
+        "audioFile" : "Abasa_30"
+    },
+    {
+        "text" : "وَفَاكِهَةً وَأَبًّا",
+        "translationKey" : "Abasa_31_Translation",
+        "transliterationKey" : "Abasa_31_Transliteration",
+        "audioFile" : "Abasa_31"
+    },
+    {
+        "text" : "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+        "translationKey" : "Abasa_32_Translation",
+        "transliterationKey" : "Abasa_32_Transliteration",
+        "audioFile" : "Abasa_32"
+    },
+    {
+        "text" : "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+        "translationKey" : "Abasa_33_Translation",
+        "transliterationKey" : "Abasa_33_Transliteration",
+        "audioFile" : "Abasa_33"
+    },
+    {
+        "text" : "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+        "translationKey" : "Abasa_34_Translation",
+        "transliterationKey" : "Abasa_34_Transliteration",
+        "audioFile" : "Abasa_34"
+    },
+    {
+        "text" : "وَأُمِّهِ وَأَبِيهِ",
+        "translationKey" : "Abasa_35_Translation",
+        "transliterationKey" : "Abasa_35_Transliteration",
+        "audioFile" : "Abasa_35"
+    },
+    {
+        "text" : "وَصَاحِبَتِهِ وَبَنِيهِ",
+        "translationKey" : "Abasa_36_Translation",
+        "transliterationKey" : "Abasa_36_Transliteration",
+        "audioFile" : "Abasa_36"
+    },
+    {
+        "text" : "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+        "translationKey" : "Abasa_37_Translation",
+        "transliterationKey" : "Abasa_37_Transliteration",
+        "audioFile" : "Abasa_37"
+    },
+    {
+        "text" : "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+        "translationKey" : "Abasa_38_Translation",
+        "transliterationKey" : "Abasa_38_Transliteration",
+        "audioFile" : "Abasa_38"
+    },
+    {
+        "text" : "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+        "translationKey" : "Abasa_39_Translation",
+        "transliterationKey" : "Abasa_39_Transliteration",
+        "audioFile" : "Abasa_39"
+    },
+    {
+        "text" : "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+        "translationKey" : "Abasa_40_Translation",
+        "transliterationKey" : "Abasa_40_Transliteration",
+        "audioFile" : "Abasa_40"
+    },
+    {
+        "text" : "تَرْهَقُهَا قَتَرَةٌ",
+        "translationKey" : "Abasa_41_Translation",
+        "transliterationKey" : "Abasa_41_Transliteration",
+        "audioFile" : "Abasa_41"
+    },
+    {
+        "text" : "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+        "translationKey" : "Abasa_42_Translation",
+        "transliterationKey" : "Abasa_42_Transliteration",
+        "audioFile" : "Abasa_42"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "At-Tin_0_Translation",
+        "transliterationKey" : "At-Tin_0_Transliteration",
+        "audioFile" : "At-Tin_0"
+    },
+    {
+        "text" : "وَالتِّينِ وَالزَّيْتُونِ",
+        "translationKey" : "At-Tin_1_Translation",
+        "transliterationKey" : "At-Tin_1_Transliteration",
+        "audioFile" : "At-Tin_1"
+    },
+    {
+        "text" : "وَطُورِ سِينِينَ",
+        "translationKey" : "At-Tin_2_Translation",
+        "transliterationKey" : "At-Tin_2_Transliteration",
+        "audioFile" : "At-Tin_2"
+    },
+    {
+        "text" : "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+        "translationKey" : "At-Tin_3_Translation",
+        "transliterationKey" : "At-Tin_3_Transliteration",
+        "audioFile" : "At-Tin_3"
+    },
+    {
+        "text" : "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+        "translationKey" : "At-Tin_4_Translation",
+        "transliterationKey" : "At-Tin_4_Transliteration",
+        "audioFile" : "At-Tin_4"
+    },
+    {
+        "text" : "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+        "translationKey" : "At-Tin_5_Translation",
+        "transliterationKey" : "At-Tin_5_Transliteration",
+        "audioFile" : "At-Tin_5"
+    },
+    {
+        "text" : "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+        "translationKey" : "At-Tin_6_Translation",
+        "transliterationKey" : "At-Tin_6_Transliteration",
+        "audioFile" : "At-Tin_6"
+    },
+    {
+        "text" : "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+        "translationKey" : "At-Tin_7_Translation",
+        "transliterationKey" : "At-Tin_7_Transliteration",
+        "audioFile" : "At-Tin_7"
+    },
+    {
+        "text" : "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+        "translationKey" : "At-Tin_8_Translation",
+        "transliterationKey" : "At-Tin_8_Transliteration",
+        "audioFile" : "At-Tin_8"
+    }
+]

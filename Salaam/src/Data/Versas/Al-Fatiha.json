@@ -1,0 +1,44 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Fatiha_0_Translation",
+        "transliterationKey" : "Al-Fatiha_0_Transliteration",
+        "audioFile" : "Al-Fatiha_0"
+    },
+    {
+        "text" : "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "translationKey" : "Al-Fatiha_1_Translation",
+        "transliterationKey" : "Al-Fatiha_1_Transliteration",
+        "audioFile" : "Al-Fatiha_1"
+    },
+    {
+        "text" : "الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Fatiha_2_Translation",
+        "transliterationKey" : "Al-Fatiha_2_Transliteration",
+        "audioFile" : "Al-Fatiha_2"
+    },
+    {
+        "text" : "مَالِكِ يَوْمِ الدِّينِ",
+        "translationKey" : "Al-Fatiha_3_Translation",
+        "transliterationKey" : "Al-Fatiha_3_Transliteration",
+        "audioFile" : "Al-Fatiha_3"
+    },
+    {
+        "text" : "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "translationKey" : "Al-Fatiha_4_Translation",
+        "transliterationKey" : "Al-Fatiha_4_Transliteration",
+        "audioFile" : "Al-Fatiha_4"
+    },
+    {
+        "text" : "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "translationKey" : "Al-Fatiha_5_Translation",
+        "transliterationKey" : "Al-Fatiha_5_Transliteration",
+        "audioFile" : "Al-Fatiha_5"
+    },
+    {
+        "text" :" صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ  عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "translationKey" : "Al-Fatiha_6_Translation",
+        "transliterationKey" : "Al-Fatiha_6_Transliteration",
+        "audioFile" : "Al-Fatiha_6"
+    }
+]

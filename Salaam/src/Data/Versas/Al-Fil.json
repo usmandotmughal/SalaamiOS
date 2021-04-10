@@ -1,0 +1,38 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Fil_0_Translation",
+        "transliterationKey" : "Al-Fil_0_Transliteration",
+        "audioFile" : "Al-Fil_0"
+    },
+    {
+        "text" : "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "translationKey" : "Al-Fil_1_Translation",
+        "transliterationKey" : "Al-Fil_1_Transliteration",
+        "audioFile" : "Al-Fil_1"
+    },
+    {
+        "text" : "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "translationKey" : "Al-Fil_2_Translation",
+        "transliterationKey" : "Al-Fil_2_Transliteration",
+        "audioFile" : "Al-Fil_2"
+    },
+    {
+        "text" : "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "translationKey" : "Al-Fil_3_Translation",
+        "transliterationKey" : "Al-Fil_3_Transliteration",
+        "audioFile" : "Al-Fil_3"
+    },
+    {
+        "text" : "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+        "translationKey" : "Al-Fil_4_Translation",
+        "transliterationKey" : "Al-Fil_4_Transliteration",
+        "audioFile" : "Al-Fil_4"
+    },
+    {
+        "text" : "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+        "translationKey" : "Al-Fil_5_Translation",
+        "transliterationKey" : "Al-Fil_5_Transliteration",
+        "audioFile" : "Al-Fil_5"
+    }
+]

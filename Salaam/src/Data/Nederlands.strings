@@ -1,0 +1,1975 @@
+/* 
+  Nederlands.strings
+  Salaam
+
+  Created by Andriy Shkinder on 12.12.2019.
+  Copyright © 2019 shkinder.andriy. All rights reserved.
+*/
+
+//MARK: Main menu
+
+"Language" = "Taal";
+
+"Feedback" = "Contact";
+
+"Repeat" = "Herhaling";
+
+"Rating" = "Beoordeling";
+
+//MARK: Surah Ended Description
+
+"SurahEnded" = "Je bent aan het eind\ngekomen van deze Surah";
+
+"Blessings" = "Moge Allah je belonen voor\nhet memoriseren van";
+
+//MARK: Surah names
+
+"Al-FahitaSurahTranslationKey" = "De Opener";
+
+"An-NasSurahTranslationKey" = "De Mensen";
+
+"Al-FalaqSurahTranslationKey" = "De Dageraad";
+
+"Al-IkhlasSurahTranslationKey" = "Het Zuiveren";
+
+"Al-MassadSurahTranslationKey" = "De Touwvezels";
+
+"An-NasrSurahTranslationKey" = "De Hulp";
+
+"Al-KafirunSurahTranslationKey" = "De Ongelovigen";
+
+"Al-KawtharSurahTranslationKey" = "De Overvloed";
+
+"Al-Ma'unSurahTranslationKey" = "De Levensbenodigheden";
+
+"QurayshSurahTranslationKey" = "Quraysh";
+
+"Al-FilSurahTranslationKey" = "De Olifant";
+
+"Al-HumazahSurahTranslationKey" = "De Lasteraar";
+
+"Al-'AsrSurahTranslationKey" = "De Tijd";
+
+"At-TakathurSurahTranslationKey" = "De Wedijver om meer";
+
+"Al-Qari’ahSurahTranslationKey" = "The Calamity";
+
+"Az-ZalzalahSurahTranslationKey" = "De Beving";
+
+"Al-QadrSurahTranslationKey" = "De Waardevolle";
+
+"At-TinSurahTranslationKey" = "De Vijgeboom";
+
+"Ad-DuhaaSurahTranslationKey" = "Het Ochtendlicht";
+"Al-A'laSurahTranslationKey" = "De Hoogste";
+"Al-'AdiyatSurahTranslationKey" = "Zij Die Rennen";
+"Al-'AlaqSurahTranslationKey" = "De Bloedklomp";
+"Al-BaladSurahTranslationKey" = "De Stad";
+"Al-BayyinahSurahTranslationKey" = "Het Duidelijke Bewijs";
+"Al-FajrSurahTranslationKey" = "De Dageraad";
+"Al-FalaqSurahTranslationKey" = "De Dageraad";
+"Al-FatihaSurahTranslationKey" = "De Opener";
+"Al-GhashiyahSurahTranslationKey" = "De Opstanding";
+"Al-LaylSurahTranslationKey" = "De Nacht";
+"Ash-ShamsSurahTranslationKey" = "De Zon";
+"Ash-SharhSurahTranslationKey" = "De Verruiming";
+"At-TariqSurahTranslationKey" = "De Verlichtende Ster";
+"Al-MasadSurahTranslationKey" = "De Touwvezels";
+
+"An-NabaSurahTranslationKey" = "De Aankondiging";
+"An-NaziatSurahTranslationKey" = "De Uitrukkenden";
+"AbasaSurahTranslationKey" = "Hij Fronste";
+"At-TakwirSurahTranslationKey" = "Het Oprollen";
+"Al-MutaffifinSurahTranslationKey" = "De Zwendelaars";
+"Al-InfitarSurahTranslationKey" = "De Splijting";
+"Al-BuroojSurahTranslationKey" = "De Sterrenstelsels";
+"Al-InshiqaqSurahTranslationKey" = "De Verscheuring";
+
+//MARK: An-Nas verses translation
+
+"An-Nas_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"An-Nas_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"An-Nas_1_Translation" = "Zeg: \"Ik zoek bescherming\nbij de Heer van de mensen.";
+"An-Nas_1_Transliteration" = "Qul a'uzu birabbin naas";
+
+"An-Nas_2_Translation" = "De Koning van de mensen.";
+"An-Nas_2_Transliteration" = "Malikin naas";
+
+"An-Nas_3_Translation" = "De God van de mensen.";
+"An-Nas_3_Transliteration" = "Ilaahin naas";
+
+"An-Nas_4_Translation" = "Tegen het kwaad van\nde wegsluipende influisteraar.";
+"An-Nas_4_Transliteration" = "Min sharril was waasil khannaas";
+
+"An-Nas_5_Translation" = "Degene die in de harten\nvan de mensen influistert.";
+"An-Nas_5_Transliteration" = "Al lazee yuwas wisu fee sudoorin naas";
+
+"An-Nas_6_Translation" = "Van de Djinn’s en de mensen.\"";
+"An-Nas_6_Transliteration" = "Minal jinnati wan naas";
+
+//MARK: Al-Falaq verses translation
+"Al-Falaq_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Falaq_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Falaq_1_Translation" = "Zeg: \"Ik zoek bescherming\nbij de Heer der dageraad.";
+"Al-Falaq_1_Transliteration" = "Qul a'uzoo bi rabbil-falaq";
+
+"Al-Falaq_2_Translation" = "Tegen het kwaad\ndat Hij geschapen heeft.";
+"Al-Falaq_2_Transliteration" = "Min sharri ma khalaq";
+
+"Al-Falaq_3_Translation" = "En tegen het kwaad van de\ndonkere nacht wanneer hij aanbreekt.";
+"Al-Falaq_3_Transliteration" = "Wa min sharri ghasiqin iza waqab";
+
+"Al-Falaq_4_Translation" = "En tegen het kwaad\nvan hen die op knopen blazen.";
+"Al-Falaq_4_Transliteration" = "Wa min sharrin-naffaa-saati fil 'uqad";
+
+"Al-Falaq_5_Translation" = "En tegen het kwaad van\neen jaloerse wanneer deze jaloers is.\"";
+"Al-Falaq_5_Transliteration" = "Wa min shar ri haasidin iza hasad";
+
+//MARK: Al-Ikhlas verses translation
+"Al-Ikhlas_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Ikhlas_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Ikhlas_1_Translation" = "Zeg:\n\"Hij is Allah, de Enige.";
+"Al-Ikhlas_1_Transliteration" = "Qul huwal laahu ahad";
+
+"Al-Ikhlas_2_Translation" = "Allah is de Enigste\nvan Wie al het geschapene afhankelijk is.";
+"Al-Ikhlas_2_Transliteration" = "Allah hus-samad";
+
+"Al-Ikhlas_3_Translation" = "Hij heeft niet\nverwekt en is niet verwekt.";
+"Al-Ikhlas_3_Transliteration" = "Lam yalid wa lam yoolad";
+
+"Al-Ikhlas_4_Translation" = "En niet één\nis aan Hem gelijkwaardig.\"";
+"Al-Ikhlas_4_Transliteration" = "Wa lam yakun-lahu kufuwan ahad";
+
+//MARK: Al-Masad verses translation
+"Al-Masad_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Masad_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Masad_1_Translation" = "Vernietigd zijn de handen\nvan Abôe Lahab en vernietigd is hij.";
+"Al-Masad_1_Transliteration" = "Tabbat yadaa abee Lahabinw-wa tabb";
+
+"Al-Masad_2_Translation" = "Zijn bezit en wat\nhij voortbracht, baat hem niet.";
+"Al-Masad_2_Transliteration" = "Maa aghna 'anhu maaluhu wa ma kasab";
+
+"Al-Masad_3_Translation" = "Hij zal een vuur van\nvlammen (de Hel) binnengaan.";
+"Al-Masad_3_Transliteration" = "Sa yas laa naran zaata lahab";
+
+"Al-Masad_4_Translation" = "En ook zijn vrouw,\naandraagster van brandhout.";
+"Al-Masad_4_Transliteration" = "Wam ra-atuhu hamma latal-hatab";
+
+"Al-Masad_5_Translation" = "Om haar nek\neen touw van vezels.";
+"Al-Masad_5_Transliteration" = "Fee jeediha hab lum mim-masad";
+
+
+//MARK: Al-Nasr verses translation
+"An-Nasr_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"An-Nasr_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"An-Nasr_1_Translation" = "Als de hulp van Allah\nen de overwinning zijn gekomen.";
+"An-Nasr_1_Transliteration" = "Iza jaa-a nas rullahi walfath";
+
+"An-Nasr_2_Translation" = "En jij (O Moehammed)\nde mensen in grote groepen tot\nde godsdienst van Allah ziet toetreden.";
+"An-Nasr_2_Transliteration" = "Wa ra-aitan naasa yadkhuloona fee\ndeenil laahi afwajah";
+
+"An-Nasr_3_Translation" = "Prijs dan de Glorie van jouw\nHeer en vraag Hem om vergeving.\nVoorwaar, Hij is Berouwaanvaardend.";
+"An-Nasr_3_Transliteration" = "Fa sab bih bihamdi rabbika was taghfir,\ninnahu kaana tawwaaba";
+
+//MARK: Al-Kafirun verses translation
+"Al-Kafirun_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Kafirun_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Kafirun_1_Translation" = "Zeg (O Moehammed):\n\"O ongelovigen.";
+"Al-Kafirun_1_Transliteration" = "Qul yaa-ai yuhal kaafiroon";
+
+"Al-Kafirun_2_Translation" = "Ik aanbid niet\nwat jullie aanbidden.";
+"Al-Kafirun_2_Transliteration" = "Laa a'budu ma t'abudoon";
+
+"Al-Kafirun_3_Translation" = "En jullie zijn geen\naanbidders van wat ik aanbid.";
+"Al-Kafirun_3_Transliteration" = "Wa laa antum 'aabidoona maa a'bud";
+
+"Al-Kafirun_4_Translation" = "En ik zal nooit een aanbidder\nworden van wat jullie aanbidden.";
+"Al-Kafirun_4_Transliteration" = "Wa laa ana 'abidum maa 'abattum";
+
+"Al-Kafirun_5_Translation" = "En jullie zullen nooit\naanbidders worden van wat ik aanbid.";
+"Al-Kafirun_5_Transliteration" = "Wa laa antum 'aabidoona ma a'bud";
+
+"Al-Kafirun_6_Translation" = "Daarom, voor jullie jullie godsdienst\nen voor mij mijn godsdienst.\"";
+"Al-Kafirun_6_Transliteration" = "Lakum deenukum wa liya deen.";
+
+//MARK: Al-Kawthar verses translation
+"Al-Kawthar_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Kawthar_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Kawthar_1_Translation" = "Waarlijk, Wij hebben jou\nde overvloed geschonken.";
+"Al-Kawthar_1_Transliteration" = "Innaa a'taina kal kauthar";
+
+"Al-Kawthar_2_Translation" = "Verricht daarom de shalât\nvoor jouw Heer en slacht offerdieren.";
+"Al-Kawthar_2_Transliteration" = "Fa salli li rabbika wanhar";
+
+"Al-Kawthar_3_Translation" = "Voorwaar, jouw hater,\nhij is het die afgesneden is.";
+"Al-Kawthar_3_Transliteration" = "Inna shani-aka huwal abtar";
+
+//MARK: Al-Ma'un verses translation
+"Al-Ma'un_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Ma'un_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Ma'un_1_Translation" = "Weet jij wie degene is die\n(de Dag van het) Oordeel loochent?";
+"Al-Ma'un_1_Transliteration" = "Ara-aital lazee yu kazzibu bid deen";
+
+"Al-Ma'un_2_Translation" = "Dat is degene\ndie de wees wegduwt.";
+"Al-Ma'un_2_Transliteration" = "Fa zaalikal lazi yadu'ul-yateem";
+
+"Al-Ma'un_3_Translation" = "En hij spoort niet aan tot het\ngeven van voedsel aan de behoeftigen.";
+"Al-Ma'un_3_Transliteration" = "Wa la ya huddu 'alaa ta'amil miskeen";
+
+"Al-Ma'un_4_Translation" = "Wee dan de\nverrichters van de shalât,";
+"Al-Ma'un_4_Transliteration" = "Fa wai lul-lil mu salleen";
+
+"Al-Ma'un_5_Translation" = "Degenen die\nonachtzaam zijn met hun shalât.";
+"Al-Ma'un_5_Transliteration" = "Al lazeena hum 'an salaatihim sahoon";
+
+"Al-Ma'un_6_Translation" = "Degenen die er\neen vertoning van maken.";
+"Al-Ma'un_6_Transliteration" = "Al lazeena hum yuraa-oon";
+
+"Al-Ma'un_7_Translation" = "En die de\nlevensbenodigdheden tegenhouden.";
+"Al-Ma'un_7_Transliteration" = "Wa yamna'oonal ma'oon";
+
+//MARK: Quraysh verses translation
+"Quraysh_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Quraysh_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Quraysh_1_Translation" = "Vanwege de\ngewoonte van de Qoeraisj.";
+"Quraysh_1_Transliteration" = "Li-ilaafi quraish";
+
+"Quraysh_2_Translation" = "Hun gewoonte van het maken\nvan tochten in de winter en de zomer.";
+"Quraysh_2_Transliteration" = "Elaafihim rihlatash shitaa-i wass saif";
+
+"Quraysh_3_Translation" = "Daarom moeten zij\nde Heer van dit Huis aanbidden.";
+"Quraysh_3_Transliteration" = "Fal y'abudu rabba haazal-bait";
+
+"Quraysh_4_Translation" = "Degene Die hun tegen de honger\nvoedt en hen veilig stelt voor de angst.";
+"Quraysh_4_Transliteration" = "Allazi at'amahum min ju'inw-wa-aamana\nhum min khawf";
+
+//MARK: Al-Fil verses translation
+"Al-Fil_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Fil_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Fil_1_Translation" = "Heb jij niet vernomen\nhoe jouw Heer met de mensen\nvan de olifant heeft gehandeld?";
+"Al-Fil_1_Transliteration" = "Alam tara kaifa fa'ala rabbuka bi\nashaabil feel";
+
+"Al-Fil_2_Translation" = "Heeft Hij hun\nplan niet verijdeld?";
+"Al-Fil_2_Transliteration" = "Alam yaj'al kai dahum fee tad leel";
+
+"Al-Fil_3_Translation" = "En Hij heeft over\nhen zwermen vogels gezonden.";
+"Al-Fil_3_Transliteration" = "Wa arsala 'alaihim tairan abaabeel";
+
+"Al-Fil_4_Translation" = "Die stenen van\nklei op hen wierpen.";
+"Al-Fil_4_Transliteration" = "Tar meehim bi hi jaaratin min sij jeel";
+
+"Al-Fil_5_Translation" = "Zo maakte Hij hen als\n(door wormen) aangevreten bladeren.";
+"Al-Fil_5_Transliteration" = "Faja 'alahum ka'asfim m'akool";
+
+//MARK: Al-Humazah verses translation
+"Al-Humazah_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Humazah_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Humazah_1_Translation" = "Wee elke\nlasteraar en roddelaar.";
+"Al-Humazah_1_Transliteration" = "Wai lul-li kulli hu mazatil-lumaza";
+
+"Al-Humazah_2_Translation" = "Degene die bezit\nverzamelt en het telkens telt.";
+"Al-Humazah_2_Transliteration" = "Al-lazi jama'a maalaw wa'addadah";
+
+"Al-Humazah_3_Translation" = "Hij denkt dat zijn bezit\nhem eeuwiglevend maakt.";
+"Al-Humazah_3_Transliteration" = "Yahsabu anna maalahu akhladah";
+
+"Al-Humazah_4_Translation" = "Nee! Hij zal zeker in de\nvernietiger gesmeten worden.";
+"Al-Humazah_4_Transliteration" = "Kalla layum ba zanna fil hutamah";
+
+"Al-Humazah_5_Translation" = "En wat doet jou\nweten wat de vernietiger is?";
+"Al-Humazah_5_Transliteration" = "Wa maa adraaka mal-hutamah";
+
+"Al-Humazah_6_Translation" = "Het door Allah\naangestoken Vuur (de Hel).";
+"Al-Humazah_6_Transliteration" = "Narul laahil-mooqada";
+
+"Al-Humazah_7_Translation" = "Dat tot in\nde harten doordringt.";
+"Al-Humazah_7_Transliteration" = "Al latee tat tali'u 'alalafidah";
+
+"Al-Humazah_8_Translation" = "Voorwaar,\nhet zal hen omhullen.";
+"Al-Humazah_8_Transliteration" = "Innaha 'alaihim moosada";
+
+"Al-Humazah_9_Translation" = "In langgerekte zuilen.";
+"Al-Humazah_9_Transliteration" = "Fee 'amadim-mu mad dadah";
+
+//MARK: Al-Fatiha verses translation
+"Al-Fatiha_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Fatiha_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Fatiha_1_Translation" = "Alle lof zij Allah,\nde Heer der Werelden.";
+"Al-Fatiha_1_Transliteration" = "Alhamdu lillaahi Rabbil 'aalameen";
+
+"Al-Fatiha_2_Translation" = "De Erbarmer,\nde Meest Barmhartige.";
+"Al-Fatiha_2_Transliteration" = "Ar-Rahmaanir-Raheem";
+
+"Al-Fatiha_3_Translation" = "De Heerser op\nde Dag des Oordeels.";
+"Al-Fatiha_3_Transliteration" = "Maaliki Yawmid-Deen";
+
+"Al-Fatiha_4_Translation" = "U alleen aanbidden wij\nen U alleen vragen wij om hulp.";
+"Al-Fatiha_4_Transliteration" = "Iyyaaka na'budu wa lyyaaka nasta'een";
+
+"Al-Fatiha_5_Translation" = "Leid ons\nop het rechte Pad.";
+"Al-Fatiha_5_Transliteration" = "Ihdinas-Siraatal-Mustaqeem";
+
+"Al-Fatiha_6_Translation" = "Het Pad van degenen aan wie U gunsten hebt geschonken, niet van degenen op wie de\ntoorn rust en niet dat van de dwalenden.";
+"Al-Fatiha_6_Transliteration" = "Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen";
+
+//MARK: Al-'Asr verses translation
+"Al-'Asr_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"Al-'Asr_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-'Asr_1_Translation" = "Bij de tijd.";
+"Al-'Asr_1_Transliteration" = "Wal' asr";
+
+"Al-'Asr_2_Translation" = "Voorwaar,\n de mens lijdt zeker verlies.";
+"Al-'Asr_2_Transliteration" = "Innal insaana lafee khusr";
+
+"Al-'Asr_3_Translation" = "Behalve degenen die geloven en goede\n daden verrichten en elkaar aansporen tot de\n Waarheid en elkaar aansporen tot geduld.";
+"Al-'Asr_3_Transliteration" = "Il lal lazeena aamanu wa 'amilus saali\n haati wa tawa saw bil haqqi wa tawa\n saw bis sabr";
+
+//MARK: At-Takathur verses translation
+"At-Takathur_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"At-Takathur_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"At-Takathur_1_Translation" = "Jullie gaan op\n in de wedijver om meer.";
+"At-Takathur_1_Transliteration" = "Al haaku mut takathur";
+
+"At-Takathur_2_Translation" = "Totdat jullie in\n de graven terechtkomen.";
+"At-Takathur_2_Transliteration" = "Hatta zurtumul-maqaabir";
+
+"At-Takathur_3_Translation" = "Nee,\n jullie zullen het weten.";
+"At-Takathur_3_Transliteration" = "Kalla sawfa ta'lamoon";
+
+"At-Takathur_4_Translation" = "Nogmaals, nee!\n Jullie zullen het weten.";
+"At-Takathur_4_Transliteration" = "Thumma kalla sawfa ta'lamoon";
+
+"At-Takathur_5_Translation" = "Nee! Als jullie het maar\n met zekere kennis zouden weten!";
+"At-Takathur_5_Transliteration" = "Kalla law ta'lamoona 'ilmal yaqeen";
+
+"At-Takathur_6_Translation" = "Jullie zullen\n zeker de Hel zien.";
+"At-Takathur_6_Transliteration" = "Latara-wun nal jaheem";
+
+"At-Takathur_7_Translation" = "Nogmaals, jullie zullen\n haar met een zeker oog zien.";
+"At-Takathur_7_Transliteration" = "Thumma latara wunnaha 'ainal yaqeen";
+
+"At-Takathur_8_Translation" = "Dan zullen jullie op die Dag ondervraagd\n worden over de genietingen.";
+"At-Takathur_8_Transliteration" = "Thumma latus alunna yauma-izin\n 'anin na'eem";
+
+//MARK: Al-Qari’ah verses translation
+"Al-Qari’ah_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"Al-Qari’ah_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Qari’ah_1_Translation" = "De Daverende\n (De Dag der Opstanding).";
+"Al-Qari’ah_1_Transliteration" = "Al qaari'ah";
+
+"Al-Qari’ah_2_Translation" = "Wat is de Daverende?";
+"Al-Qari’ah_2_Transliteration" = "Mal qaariah";
+
+"Al-Qari’ah_3_Translation" = "En wat doet jou\n weten wat de Daverende is?";
+"Al-Qari’ah_3_Transliteration" = "Wa maa adraaka mal qaari'ah";
+
+"Al-Qari’ah_4_Translation" = "Op de Dag dat de\n mensen als verstrooide motten zijn.";
+"Al-Qari’ah_4_Transliteration" = "Yauma ya koonun naasu kal\n farashil mabthooth";
+
+"Al-Qari’ah_5_Translation" = "En de bergen\n als verspreide wolvlokken.";
+"Al-Qari’ah_5_Transliteration" = "Wa ta koonul jibalu kal 'ihnil manfoosh";
+
+"Al-Qari’ah_6_Translation" = "Wat betreft degene\n van wie dan zijn weegschaal\n (met goede daden) zwaar weegt.";
+"Al-Qari’ah_6_Transliteration" = "Fa-amma man thaqulat mawa zeenuh";
+
+"Al-Qari’ah_7_Translation" = "Hij zal een\n behaaglijk leven leiden.";
+"Al-Qari’ah_7_Transliteration" = "Fahuwa fee 'ishatir raadiyah";
+
+"Al-Qari’ah_8_Translation" = "En wat betreft degene van\n wie zijn weegschaal licht weegt.";
+"Al-Qari’ah_8_Transliteration" = "Wa amma man khaffat mawa zeenuh";
+
+"Al-Qari’ah_9_Translation" = "Zijn verblijfplaats\n is dan Hâwiyah (de Hel).";
+"Al-Qari’ah_9_Transliteration" = "Fa-ummuhu haawiyah";
+
+"Al-Qari’ah_10_Translation" = "En wat doet\n jou weten wat zij is?";
+"Al-Qari’ah_10_Transliteration" = "Wa maa adraaka maa hiyah";
+
+"Al-Qari’ah_11_Translation" = "Een verbandende Hel.";
+"Al-Qari’ah_11_Transliteration" = "Naarun hamiyah";
+
+//MARK: Az-Zalzalah verses translation
+"Az-Zalzalah_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"Az-Zalzalah_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Az-Zalzalah_1_Translation" = "Wanneer de aarde\n door haar beving wordt geschud.";
+"Az-Zalzalah_1_Transliteration" = "Izaa zul zilatil ardu zil zaalaha";
+
+"Az-Zalzalah_2_Translation" = "En de aarde\n haar lasten naar buiten keert.";
+"Az-Zalzalah_2_Transliteration" = "Wa akh rajatil ardu athqaalaha";
+
+"Az-Zalzalah_3_Translation" = "En de mens zegt:\n \"Wat is er met haar aan de hand?\"";
+"Az-Zalzalah_3_Transliteration" = "Wa qaalal insaanu ma laha";
+
+"Az-Zalzalah_4_Translation" = "Op die Dag zal zij\n haar berichten bekendmaken.";
+"Az-Zalzalah_4_Transliteration" = "Yawmaa izin tuhad dithu akhbaaraha";
+
+"Az-Zalzalah_5_Translation" = "Omdat jouw Heer\n het haar bevolen heeft.";
+"Az-Zalzalah_5_Transliteration" = "Bi-anna rabbaka awhaa laha";
+
+"Az-Zalzalah_6_Translation" = "Op die Dag zullen\n de mensen in verschillende groepen\n tevoorschijn komen om hun daden te zien.";
+"Az-Zalzalah_6_Transliteration" = "Yawma iziny yas durun naasu ash tatal liyuraw a'maalahum";
+
+"Az-Zalzalah_7_Translation" = "Wie iets goeds deed ter grootte\n van een mosterdzaadje, zal het dan zien.";
+"Az-Zalzalah_7_Transliteration" = "Famaiy ya'mal mithqala zarratin khai\n raiy-yarah";
+
+"Az-Zalzalah_8_Translation" = "En wie iets kwaads deed ter grootte\n van een mosterdzaadje, zal het dan zien.";
+"Az-Zalzalah_8_Transliteration" = "Wa maiy-y'amal mithqala zarratin\n sharraiy-yarah";
+
+//MARK: At-Tin verses translation
+"At-Tin_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"At-Tin_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"At-Tin_1_Translation" = "Bij de vijg en de olijf.";
+"At-Tin_1_Transliteration" = "Wat teeni waz zaitoon";
+
+"At-Tin_2_Translation" = "Bij de berg Sinaï.";
+"At-Tin_2_Transliteration" = "Wa toori sineen";
+
+"At-Tin_3_Translation" = "Bij deze\n veilige stad (Mekkah).";
+"At-Tin_3_Transliteration" = "Wa haazal balad-il ameen";
+
+"At-Tin_4_Translation" = "Voorzeker, Wij hebben de\n mens in de beste vorm geschapen.";
+"At-Tin_4_Transliteration" = "Laqad khalaqnal insaana fee ahsani\n taqweem";
+
+"At-Tin_5_Translation" = "Daarna doen Wij hem\n terugkeren tot het laagste van het laagste.";
+"At-Tin_5_Transliteration" = "Thumma ra dad naahu asfala saafileen";
+
+"At-Tin_6_Translation" = "Behalve degenen die\n geloven en goede daden verrichten.\n Voor hen is er een ononderbroken beloning.";
+"At-Tin_6_Transliteration" = "Ill-lal lazeena aamanoo wa 'amilus saalihaati;\n falahum ajrun ghairu mamnoon";
+
+"At-Tin_7_Translation" = "Wat doet jullie\ndan het oordeel loochenen?";
+"At-Tin_7_Transliteration" = "Fama yu kaz zibuka b'adu bid deen";
+
+"At-Tin_8_Translation" = "Is Allah niet de\n Rechtvaardigste der Rechters?";
+"At-Tin_8_Transliteration" = "Alai sal laahu bi-ahkamil haakimeen";
+
+//MARK: Al-Qadr verses translation
+"Al-Qadr_0_Translation" = "In de naam van Allah,\n de Erbarmer, de Meest Barmhartige.";
+"Al-Qadr_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Qadr_1_Translation" = "Voorwaar, Wij hebben hem\n (de Koran) neergezonden in de\n Waardevolle Nacht (Lailatoelqadr).";
+"Al-Qadr_1_Transliteration" = "Innaa anzalnaahu fee lailatil qadr";
+
+"Al-Qadr_2_Translation" = "En wat doet jullie weten\n wat de Waardevolle Nacht is?";
+"Al-Qadr_2_Transliteration" = "Wa maa adraaka ma lailatul qadr";
+
+"Al-Qadr_3_Translation" = "De Waardevolle Nacht\n is beter dan duizend maanden.";
+"Al-Qadr_3_Transliteration" = "Lailatul qadri khairum min alfee shahr";
+
+"Al-Qadr_4_Translation" = "De Engelen en de Geest (Djibrîl)\n daalden in haar neer met de toestemming\n van hun Heer, voor elke beschikking.";
+"Al-Qadr_4_Transliteration" = "Tanaz zalul malaa-ikatu war roohu feeha bi\n izni-rab bihim min kulli amr";
+
+"Al-Qadr_5_Translation" = "Vrede heerst (in deze nacht),\n tot aan de ochtendschemering.";
+"Al-Qadr_5_Transliteration" = "Salaamun hiya hattaa mat la'il fajr";
+
+// MARK: Al-'Adiyat verses translation
+
+"Al-'Adiyat_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-'Adiyat_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-'Adiyat_1_Translation" = "Bij de snuivend voortrennenden.";
+"Al-'Adiyat_1_Transliteration" = "Wal'aadi yaati dabha";
+
+"Al-'Adiyat_2_Translation" = "Die vonken slaan.";
+"Al-'Adiyat_2_Transliteration" = "Fal moori yaati qadha";
+
+"Al-'Adiyat_3_Translation" = "Die in de ochtendschemering aanvallen.";
+"Al-'Adiyat_3_Transliteration" = "Fal mugheeraati subha";
+
+"Al-'Adiyat_4_Translation" = "Die daarbij stof opwerpen.";
+"Al-'Adiyat_4_Transliteration" = "Fa atharna bihee naq'a";
+
+"Al-'Adiyat_5_Translation" = "Die dan het midden van de gelederen (van de vijand) doorbreken.";
+"Al-'Adiyat_5_Transliteration" = "Fawa satna bihee jam'a";
+
+"Al-'Adiyat_6_Translation" = "Voorwaar, de mens is zijn Heer zeker ondankbaar.";
+"Al-'Adiyat_6_Transliteration" = "Innal-insana lirabbihee lakanood";
+
+"Al-'Adiyat_7_Translation" = "En voorwaar, hij is daar zeker getuige van.";
+"Al-'Adiyat_7_Transliteration" = "Wa innahu 'alaa zaalika la shaheed";
+
+"Al-'Adiyat_8_Translation" = "En voorwaar, hij heeft zeker een hevige liefde voor bezit.";
+"Al-'Adiyat_8_Transliteration" = "Wa innahu lihubbil khairi la shadeed";
+
+"Al-'Adiyat_9_Translation" = "Weet hij dan niet dat, wanneer naar buiten wordt gekeerd wat in de graven is.";
+"Al-'Adiyat_9_Transliteration" = "Afala ya'lamu iza b'uthira ma filquboor";
+
+"Al-'Adiyat_10_Translation" = "En onthuld wordt wat in de harten is.";
+"Al-'Adiyat_10_Transliteration" = "Wa hussila maa fis sudoor";
+
+"Al-'Adiyat_11_Translation" = "Dat hun Heer op die Dag zeker Alwetend over hen is?";
+"Al-'Adiyat_11_Transliteration" = "Inna rabbahum bihim yauma 'izil la khabeer";
+
+
+// MARK: Al-Bayyinah verses translation
+
+"Al-Bayyinah_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Bayyinah_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Bayyinah_1_Translation" = "De ongelovigen onder de Lieden van de Schrift en de veelgodenaanbidders houden niet op (ongelovig te zijn) tot er een duidelijk bewijs tot hen komt.";
+"Al-Bayyinah_1_Transliteration" = "Lam ya kunil lazeena kafaru min ahlil kitaabi wal mushri keena mun fak keena hattaa ta-tiya humul bayyinah";
+
+"Al-Bayyinah_2_Translation" = "Een Boodschapper van Allah die gereinigde bladen voordraagt.";
+"Al-Bayyinah_2_Transliteration" = "Rasoolum minal laahi yatlu suhufam mutahharah";
+
+"Al-Bayyinah_3_Translation" = "Waarin rechtzinnige boeken (de Koran) zijn.";
+"Al-Bayyinah_3_Transliteration" = "Feeha kutubun qaiyimah";
+
+"Al-Bayyinah_4_Translation" = "En degenen aan wie het Boek is gegeven, splitsen zich pas op nadat het duidelijke bewijs tot hen gekomen was.";
+"Al-Bayyinah_4_Transliteration" = "Wa maa tafarraqal lazeena ootul kitaaba il-la mim b'adi ma jaa-at humul baiyyinah";
+
+"Al-Bayyinah_5_Translation" = "Zij werden niets anders bevolen dan Allah met zuivere aanbidding te aanbidden, als Hoenafâ. En (ook) de shalât te verrichten en de zakât te geven en dat is de rechte godsdienst.";
+"Al-Bayyinah_5_Transliteration" = "Wa maa umiroo il-la liy'abu dul laaha mukhliseena lahud-deena huna faa-a wa yuqeemus salaata wa yu-tuz zakaata; wa zaalika deenul qaiyimah";
+
+"Al-Bayyinah_6_Translation" = "Voorwaar, degenen die ongelovig zijn onder de Lieden van de Schrift en de veelgodenaanbidders zullen in het vuur van de Hel eeuwig levenden zijn. Zij zijn degenen die de slechtste schepselen zijn.";
+"Al-Bayyinah_6_Transliteration" = "Innal lazeena kafaru min ahlil kitaabi wal mushri keena fee nari jahan nama khaali deena feeha; ulaa-ika hum shar rul ba reeyah";
+
+"Al-Bayyinah_7_Translation" = "Voorwaar, degenen die geloven en goede werken verrichten, zij zijn degenen die de beste schepselen zijn.";
+"Al-Bayyinah_7_Transliteration" = "Innal lazeena aamanu wa 'amilus saalihaati ula-ika hum khairul bareey yah";
+
+"Al-Bayyinah_8_Translation" = "Hun beloningen bij hun Heer zijn de Tuinen van 'Adn (het Paradijs), waar de rivieren onder door stromen, zij zijn eeuwig levenden daarin, voor altijd. Allah is met hen behaagd en zij zijn met Hem behaagd. Dat is voor wie zijn Heer vreest.";
+"Al-Bayyinah_8_Transliteration" = "Jazaa-uhum inda rabbihim jan naatu 'adnin tajree min tahtihal an haaru khalideena feeha abada; radiy-yallaahu 'anhum wa ra du 'an zaalika liman khashiya rabbah.";
+
+
+// MARK: Al-'Alaq verses translation
+
+"Al-'Alaq_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-'Alaq_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-'Alaq_1_Translation" = "Lees voor! In de naam van jouw Heer, Die heeft geschapen.";
+"Al-'Alaq_1_Transliteration" = "Iqra bismi rab bikal lazee khalaq";
+
+"Al-'Alaq_2_Translation" = "Hij heeft de mens geschapen van een bloedklomp.";
+"Al-'Alaq_2_Transliteration" = "Khalaqal insaana min 'alaq";
+
+"Al-'Alaq_3_Translation" = "Lees voor! En jouw Heer is de Meest Edele.";
+"Al-'Alaq_3_Transliteration" = "Iqra wa rab bukal akram";
+
+"Al-'Alaq_4_Translation" = "Degene Die onderwezen heeft met de pen.";
+"Al-'Alaq_4_Transliteration" = "Al lazee 'allama bil qalam";
+
+"Al-'Alaq_5_Translation" = "Hij heeft de mens onderwezen wat hij niet wist.";
+"Al-'Alaq_5_Transliteration" = "'Al lamal insaana ma lam y'alam";
+
+"Al-'Alaq_6_Translation" = "Nee, voorwaar, de mens is zeker in overtreding.";
+"Al-'Alaq_6_Transliteration" = "Kallaa innal insaana layatghaa";
+
+"Al-'Alaq_7_Translation" = "Omdat hij zichzelf als behoefteloos beschouwt.";
+"Al-'Alaq_7_Transliteration" = "Ar-ra aahus taghnaa";
+
+"Al-'Alaq_8_Translation" = "Voorwaar, tot jouw Heer is de terugkeer.";
+"Al-'Alaq_8_Transliteration" = "Innna ilaa rabbikar ruj'aa";
+
+"Al-'Alaq_9_Translation" = "Wat denk jij van hem die verbiedt?";
+"Al-'Alaq_9_Transliteration" = "Ara-aital lazee yanhaa";
+
+"Al-'Alaq_10_Translation" = "Een dienaar wanneer hij de shalât verricht.";
+"Al-'Alaq_10_Transliteration" = "'Abdan iza sallaa";
+
+"Al-'Alaq_11_Translation" = "Wat denk je, als hij (Moehammad) de Leiding volgt?";
+"Al-'Alaq_11_Transliteration" = "Ara-aita in kana 'alal hudaa";
+
+"Al-'Alaq_12_Translation" = "Of hij tot Taqwa oproept?";
+"Al-'Alaq_12_Transliteration" = "Au amara bit taqwaa";
+
+"Al-'Alaq_13_Translation" = "Wat denk jij, als hij (Abôe Djahl) loochent en zich afwendt?";
+"Al-'Alaq_13_Transliteration" = "Ara-aita in kaz zaba wa ta walla";
+
+"Al-'Alaq_14_Translation" = "Weet hij dan niet dat Allah (hem) ziet?";
+"Al-'Alaq_14_Transliteration" = "Alam y'alam bi-an nal lahaa yaraa";
+
+"Al-'Alaq_15_Translation" = "Nee, als hij niet ophoudt, dan zullen Wij hem bij zijn voorhoofdslok grijpen.";
+"Al-'Alaq_15_Transliteration" = "Kalla la illam yantahi la nasfa'am bin nasiyah";
+
+"Al-'Alaq_16_Translation" = "Een leugenachtige, zondige voorhoofdslok.";
+"Al-'Alaq_16_Transliteration" = "Nasiyatin kazi batin khaatiah";
+
+"Al-'Alaq_17_Translation" = "Laat hem dan zijn bondgenoten roepen.";
+"Al-'Alaq_17_Transliteration" = "Fal yad'u naadiyah";
+
+"Al-'Alaq_18_Translation" = "Wij zullen de Zabâniyah roepen.";
+"Al-'Alaq_18_Transliteration" = "Sanad 'uz zabaaniyah";
+
+"Al-'Alaq_19_Translation" = "Nee, gehoorzaam hem niet, en kniel je neer en zoek toenadering (tot Allah).";
+"Al-'Alaq_19_Transliteration" = "Kalla; la tuti'hu wasjud waqtarib";
+
+
+// MARK: Ash-Sharh verses translation
+
+"Ash-Sharh_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Ash-Sharh_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Ash-Sharh_1_Translation" = "Hebben Wij niet jouw borst verruimd (O Moehammad)?";
+"Ash-Sharh_1_Transliteration" = "Alam nashrah laka sadrak";
+
+"Ash-Sharh_2_Translation" = "En Wij hebben jouw last van je weggenomen.";
+"Ash-Sharh_2_Transliteration" = "Wa wa d'ana 'anka wizrak";
+
+"Ash-Sharh_3_Translation" = "Die jouw rug belastte.";
+"Ash-Sharh_3_Transliteration" = "Allazee anqada zahrak";
+
+"Ash-Sharh_4_Translation" = "En Wij hebben jouw roem verhoogd.";
+"Ash-Sharh_4_Transliteration" = "Wa raf 'ana laka zikrak";
+
+"Ash-Sharh_5_Translation" = "Voorwaar, zo komt met de moeilijkheid de verlichting.";
+"Ash-Sharh_5_Transliteration" = "Fa inna ma'al usri yusra";
+
+"Ash-Sharh_6_Translation" = "Voorwaar, met de moeilijkheid komt de verlichting.";
+"Ash-Sharh_6_Transliteration" = "Inna ma'al 'usri yusra";
+
+"Ash-Sharh_7_Translation" = "Wanneer jij dan een taak volbracht hebt, streef dan (verder).";
+"Ash-Sharh_7_Transliteration" = "Fa iza faragh ta fansab";
+
+"Ash-Sharh_8_Translation" = "En richt jouw verlangen tot jouw Heer.";
+"Ash-Sharh_8_Transliteration" = "Wa ilaa rabbika far ghab";
+
+
+// MARK: Ad-Duhaa verses translation
+
+"Ad-Duhaa_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Ad-Duhaa_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Ad-Duhaa_1_Translation" = "Bij het ochtendlicht.";
+"Ad-Duhaa_1_Transliteration" = "Wad duhaa";
+
+"Ad-Duhaa_2_Translation" = "En bij de nacht wanneer het geheel donker is.";
+"Ad-Duhaa_2_Transliteration" = "Wal laili iza sajaa";
+
+"Ad-Duhaa_3_Translation" = "Jouw Heer heeft jou (O Moehammad) niet verlaten en Hij is niet kwaad (op jou).";
+"Ad-Duhaa_3_Transliteration" = "Ma wad da'aka rabbuka wa ma qalaa";
+
+"Ad-Duhaa_4_Translation" = "En het latere (het Hiernamaals) is zeker beter voor jou dan het eerste (het wereldse leven).";
+"Ad-Duhaa_4_Transliteration" = "Walal-aakhiratu khairul laka minal-oola";
+
+"Ad-Duhaa_5_Translation" = "En jouw Heer zal jou zeker gunsten schenken, zodat jij tevreden zult zijn.";
+"Ad-Duhaa_5_Transliteration" = "Wa la sawfa y'uteeka rabbuka fatarda";
+
+"Ad-Duhaa_6_Translation" = "Heeft Hij jou niet als wees gevonden en jou in bescherming genomen?";
+"Ad-Duhaa_6_Transliteration" = "Alam ya jidka yateeman fa aawaa";
+
+"Ad-Duhaa_7_Translation" = "En Hij heeft jou dwalend gevonden en jou geleid.";
+"Ad-Duhaa_7_Transliteration" = "Wa wa jadaka daal lan fahada";
+
+"Ad-Duhaa_8_Translation" = "En Hij heeft jou behoeftig gevonden en rijk gemaakt.";
+"Ad-Duhaa_8_Transliteration" = "Wa wa jadaka 'aa-ilan fa aghnaa";
+
+"Ad-Duhaa_9_Translation" = "Wat de wees betreft: beledig hem niet.";
+"Ad-Duhaa_9_Transliteration" = "Fa am mal yateema fala taqhar";
+
+"Ad-Duhaa_10_Translation" = "En wat de bedelaar betreft: wijs hem niet af.";
+"Ad-Duhaa_10_Transliteration" = "Wa am mas saa-ila fala tanhar";
+
+"Ad-Duhaa_11_Translation" = "En wat de gunsten van jouw Heer betreft: spreek daarover!";
+"Ad-Duhaa_11_Transliteration" = "Wa amma bi ni'mati rabbika fahad dith";
+
+
+// MARK: Al-Layl verses translation
+
+"Al-Layl_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Layl_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Layl_1_Translation" = "Bij de nacht wanneer hij bedekt.";
+"Al-Layl_1_Transliteration" = "Wallaili izaa yaghshaa";
+
+"Al-Layl_2_Translation" = "Bij de dag wanneer hij beschijnt.";
+"Al-Layl_2_Transliteration" = "Wannahaari izaa tajalla";
+
+"Al-Layl_3_Translation" = "Bij Wie de man en de vrouw schiep.";
+"Al-Layl_3_Transliteration" = "Wa maa khalaqaz zakara wal unthaa";
+
+"Al-Layl_4_Translation" = "Voorwaar, jullie daden zijn zeker verschillend.";
+"Al-Layl_4_Transliteration" = "Inna sa'yakum lashattaa";
+
+"Al-Layl_5_Translation" = "Wat betreft degene die geeft en (Allah) vreest.";
+"Al-Layl_5_Transliteration" = "Fa ammaa man a'taa wattaqaa";
+
+"Al-Layl_6_Translation" = "En in de goede beloning (het Paradijs) gelooft.";
+"Al-Layl_6_Transliteration" = "Wa saddaqa bil husnaa";
+
+"Al-Layl_7_Translation" = "Wij zullen voor hem het gemakkelijke vergemakkelijken.";
+"Al-Layl_7_Transliteration" = "Fasanu yassiruhoo lilyusraa";
+
+"Al-Layl_8_Translation" = "En wat betreft degene die gierig is en zich behoefteloos waant.";
+"Al-Layl_8_Transliteration" = "Wa ammaa man bakhila wastaghnaa";
+
+"Al-Layl_9_Translation" = "En die de goede beloning loochent.";
+"Al-Layl_9_Transliteration" = "Wa kazzaba bil husnaa";
+
+"Al-Layl_10_Translation" = "Wij zullen voor hem het moeilijke vergemakkelijken.";
+"Al-Layl_10_Transliteration" = "Fasanu yassiruhoo lil'usraa";
+
+"Al-Layl_11_Translation" = "En zijn bezit zal hem niet baten wanneer hij (in de Hel) valt.";
+"Al-Layl_11_Transliteration" = "Wa maa yughnee 'anhu maaluhooo izaa taraddaa";
+
+"Al-Layl_12_Translation" = "Voorwaar, aan Ons is zeker de Leiding.";
+"Al-Layl_12_Transliteration" = "Inna 'alainaa lal hudaa";
+
+"Al-Layl_13_Translation" = "En voorwaar, Ons behoort zeker het laatste (het Hiernamaals) en het eerste (het wereldse leven).";
+"Al-Layl_13_Transliteration" = "Wa inna lanaa lal Aakhirata wal oolaa";
+
+"Al-Layl_14_Translation" = "Daarom waarschuw Ik jullie voor een laaiend vuur (de Hel).";
+"Al-Layl_14_Transliteration" = "Fa anzartukum naaran talazzaa";
+
+"Al-Layl_15_Translation" = "Daarin gaat slechts de ergste ellendeling binnen.";
+"Al-Layl_15_Transliteration" = "Laa yaslaahaaa illal ashqaa";
+
+"Al-Layl_16_Translation" = "Die loochende en zich afwendde.";
+"Al-Layl_16_Transliteration" = "Allazee kazzaba wa tawallaa";
+
+"Al-Layl_17_Translation" = "Maar degenen die (Allah) vrezen zal daar ver van gehouden worden.";
+"Al-Layl_17_Transliteration" = "Wa sa yujannnabuhal atqaa";
+
+"Al-Layl_18_Translation" = "Degene die van zijn bezit geeft om zich te reinigen.";
+"Al-Layl_18_Transliteration" = "Allazee yu'tee maalahoo yatazakkaa";
+
+"Al-Layl_19_Translation" = "En niet om voor een gunst aan iemand beloond te worden.";
+"Al-Layl_19_Transliteration" = "Wa maa li ahadin 'indahoo min ni'matin tujzaaa";
+
+"Al-Layl_20_Translation" = "Maar om het welbehagen van zijn Heer, de Verhevene, te zoeken.";
+"Al-Layl_20_Transliteration" = "Illab tighaaa'a wajhi rabbihil a 'laa";
+
+"Al-Layl_21_Translation" = "Hij zal zeker tevreden zijn.";
+"Al-Layl_21_Transliteration" = "Wa lasawfa yardaa";
+
+
+// MARK: Ash-Shams verses translation
+
+"Ash-Shams_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Ash-Shams_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Ash-Shams_1_Translation" = "Bij de zon en haar ochtendlicht.";
+"Ash-Shams_1_Transliteration" = "Wash shamsi wa duhaa haa";
+
+"Ash-Shams_2_Translation" = "Bij de maan wanneer zij haar (de zon) volgt.";
+"Ash-Shams_2_Transliteration" = "Wal qamari izaa talaa haa";
+
+"Ash-Shams_3_Translation" = "Bij de dag wanneer hij het (duister) verdrijft.";
+"Ash-Shams_3_Transliteration" = "Wannahaari izaa jallaa haa";
+
+"Ash-Shams_4_Translation" = "Bij de nacht wanneer hij haar (de aarde) bedekt.";
+"Ash-Shams_4_Transliteration" = "Wallaili izaa yaghshaa haa";
+
+"Ash-Shams_5_Translation" = "Bij de hemel en Wie haar gebouwd heeft.";
+"Ash-Shams_5_Transliteration" = "Wassamaaa'i wa maa banaahaa";
+
+"Ash-Shams_6_Translation" = "Bij de aarde en Wie haar uitgespreid heeft.";
+"Ash-Shams_6_Transliteration" = "Wal ardi wa maa tahaahaa";
+
+"Ash-Shams_7_Translation" = "Bij de ziel en Wie haar vervolmaakt heeft.";
+"Ash-Shams_7_Transliteration" = "Wa nafsinw wa maa sawwaahaa";
+
+"Ash-Shams_8_Translation" = "Hij Die haar haar zondigheid en haar vrees (voor Hem) bijgebracht heeft.";
+"Ash-Shams_8_Transliteration" = "Fa-alhamahaa fujoorahaa wa taqwaahaa";
+
+"Ash-Shams_9_Translation" = "Voorwaar, hij die haar (de ziel) loutert, zal welslagen.";
+"Ash-Shams_9_Transliteration" = "Qad aflaha man zakkaahaa";
+
+"Ash-Shams_10_Translation" = "En waarlijk verliest hij die haar bederft.";
+"Ash-Shams_10_Transliteration" = "Wa qad khaaba man dassaahaa";
+
+"Ash-Shams_11_Translation" = "De Tsamôed loochenden in hun buitensporigheid. ";
+"Ash-Shams_11_Transliteration" = "Kazzabat Samoodu bi taghwaahaaa";
+
+"Ash-Shams_12_Translation" = "Toen de ellendigste onder hen opstond.";
+"Ash-Shams_12_Transliteration" = "Izim ba'asa ashqaahaa";
+
+"Ash-Shams_13_Translation" = "Daarop zei de Boodschapper van Allah (Shâlih) tot hen: “(Sla acht op) de vrouwtjeskameel van Allah en haar drinktijden.“";
+"Ash-Shams_13_Transliteration" = "Faqaala lahum Rasoolul laahi naaqatal laahi wa suqiyaahaa";
+
+"Ash-Shams_14_Translation" = "Maar zij loochenden hem en slachtten haar. Toen vernietigde hun Heer hen wegens hun zonden en maakte hen met de grond gelijk.";
+"Ash-Shams_14_Transliteration" = "Fakazzaboohu fa'aqaroohaa fadamdama 'alaihim Rabbuhum bizambihim fasaw waahaa";
+
+"Ash-Shams_15_Translation" = "En Hij vreesde de gevolgen daarvan niet.";
+"Ash-Shams_15_Transliteration" = "Wa laa yakhaafu'uqbaahaa";
+
+
+// MARK: Al-Balad verses translation
+
+"Al-Balad_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Balad_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Balad_1_Translation" = "Ik zweer bij deze stad (Mekkah).";
+"Al-Balad_1_Transliteration" = "Laaa uqsimu bihaazal balad";
+
+"Al-Balad_2_Translation" = "En jij (O Moehammad) bent een bewoner van deze stad.";
+"Al-Balad_2_Transliteration" = "Wa anta hillum bihaazal balad";
+
+"Al-Balad_3_Translation" = "En bij de vader (Adam) en wat hij verwekte.";
+"Al-Balad_3_Transliteration" = "Wa waalidinw wa maa walad";
+
+"Al-Balad_4_Translation" = "Voorzeker, Wij hebben de mens tot gezwoeg geschapen.";
+"Al-Balad_4_Transliteration" = "Laqad khalaqnal insaana fee kabad";
+
+"Al-Balad_5_Translation" = "Denk hij dat niemand macht over hem heeft?";
+"Al-Balad_5_Transliteration" = "Ayahsabu al-lai yaqdira 'alaihi ahad";
+
+"Al-Balad_6_Translation" = "Hij zegt: \"Ik heb veel bezit verkwist.\"";
+"Al-Balad_6_Transliteration" = "Yaqoolu ahlaktu maalal lubadaa";
+
+"Al-Balad_7_Translation" = "Denkt hij dat niemand hem ziet?";
+"Al-Balad_7_Transliteration" = "Ayahsabu al lam yarahooo ahad";
+
+"Al-Balad_8_Translation" = "Hebben Wij niet voor hem een paar ogen gemaakt?";
+"Al-Balad_8_Transliteration" = "Alam naj'al lahoo 'aynayn";
+
+"Al-Balad_9_Translation" = "En een tong en paar lippen?";
+"Al-Balad_9_Transliteration" = "Wa lisaananw wa shafatayn";
+
+"Al-Balad_10_Translation" = "En hebben Wij hem niet de twee wegen (van Leiding en dwaling) gewezen?";
+"Al-Balad_10_Transliteration" = "Wa hadaynaahun najdayn";
+
+"Al-Balad_11_Translation" = "Was hij maar over de drempel gestapt!";
+"Al-Balad_11_Transliteration" = "Falaq tahamal-'aqabah";
+
+"Al-Balad_12_Translation" = "En wat doet jou weten wat de drempel is?";
+"Al-Balad_12_Transliteration" = "Wa maaa adraaka mal'aqabah";
+
+"Al-Balad_13_Translation" = "Het vrijlaten van een slaaf.";
+"Al-Balad_13_Transliteration" = "Fakku raqabah";
+
+"Al-Balad_14_Translation" = "Of het geven van voedsel op een dag van hongersnood.";
+"Al-Balad_14_Transliteration" = "Aw it'aamun fee yawmin zee masghabah";
+
+"Al-Balad_15_Translation" = "Aan een verwante wees.";
+"Al-Balad_15_Transliteration" = "Yateeman zaa maqrabah";
+
+"Al-Balad_16_Translation" = "Of aan een arme behoeftige.";
+"Al-Balad_16_Transliteration" = "Aw miskeenan zaa matrabah";
+
+"Al-Balad_17_Translation" = "En dat hij behoort tot degenen die geloven en elkaar aansporen tot geduld en elkaar aansporen tot barmhartigheid.";
+"Al-Balad_17_Transliteration" = "Summa kaana minal lazeena aamanoo wa tawaasaw bissabri wa tawaasaw bilmarhamah";
+
+"Al-Balad_18_Translation" = "Zij zijn degenen die de mensen van de rechterzijde zijn (zij zijn de bewoners van het Paradijs).";
+"Al-Balad_18_Transliteration" = "Ulaaa'ika As-haabul maimanah";
+
+"Al-Balad_19_Translation" = "En degenen die niet in Onze Verzen geloven; zij zijn degenen die de mensen van de linkerzijde zijn.";
+"Al-Balad_19_Transliteration" = "Wallazeena kafaroo bi aayaatinaa hum as-haabul Mash'amah";
+
+"Al-Balad_20_Translation" = "Over hen is een omhullend vuur (de Hel).";
+"Al-Balad_20_Transliteration" = "Alaihim naarum mu'sadah";
+
+
+// MARK: Al-Fajr verses translation
+
+"Al-Fajr_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Fajr_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Fajr_1_Translation" = "Bij de dageraad.";
+"Al-Fajr_1_Transliteration" = "Wal-Fajr";
+
+"Al-Fajr_2_Translation" = "Bij de tien nachten.";
+"Al-Fajr_2_Transliteration" = "Wa layaalin 'ashr";
+
+"Al-Fajr_3_Translation" = "Bij het even en het oneven.";
+"Al-Fajr_3_Transliteration" = "Wash shaf'i wal watr";
+
+"Al-Fajr_4_Translation" = "Bij de nacht wanneer hij voorbijgaat.";
+"Al-Fajr_4_Transliteration" = "Wallaili izaa yasr";
+
+"Al-Fajr_5_Translation" = "Is daarin geen eed voor de bezitter van verstand?";
+"Al-Fajr_5_Transliteration" = "Hal fee zaalika qasamul lizee hijr";
+
+"Al-Fajr_6_Translation" = "Heb jij niet vernomen hoe jouw Heer de 'Âd heeft behandeld?";
+"Al-Fajr_6_Transliteration" = "Alam tara kaifa fa'ala rabbuka bi'aad";
+
+"Al-Fajr_7_Translation" = "Van de stad Iram met zijn zuilen.";
+"Al-Fajr_7_Transliteration" = "Iramaa zaatil 'imaad";
+
+"Al-Fajr_8_Translation" = "Zoals nog nooit een stad is geschapen in de landen.";
+"Al-Fajr_8_Transliteration" = "Allatee lam yukhlaq misluhaa fil bilaad";
+
+"Al-Fajr_9_Translation" = "En de Tsamôed die de rotsen uithieuwen in de vallei.";
+"Al-Fajr_9_Transliteration" = "Wa samoodal lazeena jaabus sakhra bil waad";
+
+"Al-Fajr_10_Translation" = "En Fir'aun, de bezitter van de pinnen.";
+"Al-Fajr_10_Transliteration" = "Wa fir'awna zil awtaad";
+
+"Al-Fajr_11_Translation" = "(Zij waren) degenen die overtraden in het land.";
+"Al-Fajr_11_Transliteration" = "Allazeena taghaw fil bilaad";
+
+"Al-Fajr_12_Translation" = "En daarin veelvuldig verderf zaaiden.";
+"Al-Fajr_12_Transliteration" = "Fa aksaroo feehal fasaad";
+
+"Al-Fajr_13_Translation" = "Toen deed jouw Heer de gesel van de bestraffing op hen neerdalen.";
+"Al-Fajr_13_Transliteration" = "Fasabba 'alaihim Rabbuka sawta 'azaab";
+
+"Al-Fajr_14_Translation" = "Voorwaar, jouw Heer is zeker waakzaam.";
+"Al-Fajr_14_Transliteration" = "Inna Rabbaka labil mirsaad";
+
+"Al-Fajr_15_Translation" = "Wat de mens betreft, wanneer zijn Heer hem op de proef stelt en hem aanzien geeft en hem genietingen schenkt, dan zegt hij: “Mijn Heer heeft mij geëerd.”";
+"Al-Fajr_15_Transliteration" = "Fa ammal insaanu izaa mab talaahu Rabbuhoo fa akramahoo wa na' 'amahoo fa yaqoolu Rabbeee akraman";
+
+"Al-Fajr_16_Translation" = "Maar wanneer Hij hem beproeft, en dan zijn voorzieningen beperkt, dan zegt hij: \"Mijn Heer heeft mij vernederd.\"";
+"Al-Fajr_16_Transliteration" = "Wa ammaaa izaa mabtalaahu faqadara 'alaihi rizqahoo fa yaqoolu Rabbeee ahaanan";
+
+"Al-Fajr_17_Translation" = "Nee! Jullie ondersteunen zelfs de wees niet.";
+"Al-Fajr_17_Transliteration" = "Kalla bal laa tukrimooo nal yateem";
+
+"Al-Fajr_18_Translation" = "En jullie sporen elkaar niet aan tot het voeden van de behoeftigen.";
+"Al-Fajr_18_Transliteration" = "Wa laa tahaaaddoona 'alaata'aamil miskeen";
+
+"Al-Fajr_19_Translation" = "En jullie verteren het erfdeel inhalig.";
+"Al-Fajr_19_Transliteration" = "Wa taakuloonat turaasa aklal lammaa";
+
+"Al-Fajr_20_Translation" = "En jullie beminnen het bezit met overdreven liefde.";
+"Al-Fajr_20_Transliteration" = "Wa tuhibboonal maala hubban jammaa";
+
+"Al-Fajr_21_Translation" = "Nee, wanneer de aarde met klappen verpulverd wordt.";
+"Al-Fajr_21_Transliteration" = "Kallaaa izaaa dukkatil ardu dakkan dakka";
+
+"Al-Fajr_22_Translation" = "En jouw Heer komt, en de Engelen, rij na rij.";
+"Al-Fajr_22_Transliteration" = "Wa jaaa'a Rabbuka wal malaku saffan saffaa";
+
+"Al-Fajr_23_Translation" = "En op de Dag dat de Hel wordt getoond, op die Dag zal de mens zich (zijn slechte daden) herinneren, maar wat baat hem dan nog de herinnering?";
+"Al-Fajr_23_Transliteration" = "Wa jeee'a yawma'izim bi jahannnam; Yawma 'iziny yatazakkarul insaanu wa annaa lahuz zikraa";
+
+"Al-Fajr_24_Translation" = "Hij zegt: \"Wee, had ik maar goede (daden) verricht tijdens mijn leven.\"";
+"Al-Fajr_24_Transliteration" = "Yaqoolu yaa laitanee qaddamtu lihayaatee";
+
+"Al-Fajr_25_Translation" = "Maar op die Dag is er niemand die straft zoals Hij.";
+"Al-Fajr_25_Transliteration" = "Fa Yawma izil laa yu'azzibu 'azaabahooo ahad";
+
+"Al-Fajr_26_Translation" = "En niemand knevelt zoals Hij knevelt.";
+"Al-Fajr_26_Transliteration" = "Wa laa yoosiqu wasaaqa hooo ahad";
+
+"Al-Fajr_27_Translation" = "O tot rust gekomen ziel!";
+"Al-Fajr_27_Transliteration" = "Yaaa ayyatuhan nafsul mutma 'innah";
+
+"Al-Fajr_28_Translation" = "Keer terug tot jouw Heer, behaagd en welbehaagd (ontvangen door Hem).";
+"Al-Fajr_28_Transliteration" = "Irji'eee ilaa Rabbiki raadiyatam mardiyyah";
+
+"Al-Fajr_29_Translation" = "En treed binnen onder Mijn dienaren.";
+"Al-Fajr_29_Transliteration" = "Fadkhulee fee 'ibaadee";
+
+"Al-Fajr_30_Translation" = "En treed binnen in Mijn Paradijs.";
+"Al-Fajr_30_Transliteration" = "Wadkhulee jannatee";
+
+
+// MARK: Al-Ghashiyah verses translation
+
+"Al-Ghashiyah_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-Ghashiyah_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Ghashiyah_1_Translation" = "Heeft het bericht over de Opstanding jou bereikt?";
+"Al-Ghashiyah_1_Transliteration" = "Hal ataaka hadeesul ghaashiyah";
+
+"Al-Ghashiyah_2_Translation" = "Er zijn gezichten die op die Dag angstig zijn.";
+"Al-Ghashiyah_2_Transliteration" = "Wujoohuny yawma 'izin khaashi'ah";
+
+"Al-Ghashiyah_3_Translation" = "Werkend en zwoegend.";
+"Al-Ghashiyah_3_Transliteration" = "'Aamilatun naasibah";
+
+"Al-Ghashiyah_4_Translation" = "Die de brandende Hel binnengaan.";
+"Al-Ghashiyah_4_Transliteration" = "Taslaa naaran haamiyah";
+
+"Al-Ghashiyah_5_Translation" = "Hen wordt te drinken gegeven uit een kokende bron.";
+"Al-Ghashiyah_5_Transliteration" = "Tusqaa min 'aynin aaniyah";
+
+"Al-Ghashiyah_6_Translation" = "Er is voor hen geen ander voedsel dan van doornen.";
+"Al-Ghashiyah_6_Transliteration" = "Laisa lahum ta'aamun illaa min daree'";
+
+"Al-Ghashiyah_7_Translation" = "Dat niet dik maakt en de honger niet stilt.";
+"Al-Ghashiyah_7_Transliteration" = "Laa yusminu wa laa yughnee min joo'";
+
+"Al-Ghashiyah_8_Translation" = "Er zijn gezichten die op die Dag verheugd zijn.";
+"Al-Ghashiyah_8_Transliteration" = "Wujoohuny yawma 'izin naa'imah";
+
+"Al-Ghashiyah_9_Translation" = "Over hun streven voldaan.";
+"Al-Ghashiyah_9_Transliteration" = "Lisa'yihaa raadiyah";
+
+"Al-Ghashiyah_10_Translation" = "In een hooggelegen Paradijs.";
+"Al-Ghashiyah_10_Transliteration" = "Fee jannatin 'aaliyah";
+
+"Al-Ghashiyah_11_Translation" = "Jij hoort daarin geen zinloos gepraat.";
+"Al-Ghashiyah_11_Transliteration" = "Laa tasma'u feehaa laaghiyah";
+
+"Al-Ghashiyah_12_Translation" = "Daarin is een stromende bron.";
+"Al-Ghashiyah_12_Transliteration" = "Feehaa 'aynun jaariyah";
+
+"Al-Ghashiyah_13_Translation" = "Daarin zijn verhoogde rustbanken.";
+"Al-Ghashiyah_13_Transliteration" = "Feehaa sururum marfoo'ah";
+
+"Al-Ghashiyah_14_Translation" = "En gereedgezette bekers.";
+"Al-Ghashiyah_14_Transliteration" = "Wa akwaabum mawzoo'ah";
+
+"Al-Ghashiyah_15_Translation" = "En in rijen gezette kussens.";
+"Al-Ghashiyah_15_Transliteration" = "Wa namaariqu masfoofah";
+
+"Al-Ghashiyah_16_Translation" = "En uitgerolde tapijten.";
+"Al-Ghashiyah_16_Transliteration" = "Wa zaraabiyyu mabsoosah";
+
+"Al-Ghashiyah_17_Translation" = "Kijken zij dan niet naar hoe de kamelen zijn geschapen?";
+"Al-Ghashiyah_17_Transliteration" = "Afalaa yanzuroona ilalibili kaifa khuliqat";
+
+"Al-Ghashiyah_18_Translation" = "En naar hoe de hemel opgeheven is?";
+"Al-Ghashiyah_18_Transliteration" = "Wa ilas samaaa'i kaifa rufi'at";
+
+"Al-Ghashiyah_19_Translation" = "En naar hoe de bergen stevig gegrondvest zijn?";
+"Al-Ghashiyah_19_Transliteration" = "Wa ilal jibaali kaifa nusibat";
+
+"Al-Ghashiyah_20_Translation" = "En naar hoe de aarde uitgespreid is?";
+"Al-Ghashiyah_20_Transliteration" = "Wa ilal ardi kaifa sutihat";
+
+"Al-Ghashiyah_21_Translation" = "Waarschuw daarom: voorwaar, jij (O Moehammad) bent slechts een waarschuwer.";
+"Al-Ghashiyah_21_Transliteration" = "Fazakkir innama anta Muzakkir";
+
+"Al-Ghashiyah_22_Translation" = "Jij bent over hen geen heerser.";
+"Al-Ghashiyah_22_Transliteration" = "Lasta 'alaihim bimusaitir";
+
+"Al-Ghashiyah_23_Translation" = "Maar degene die zich afwendt en ongelovig is.";
+"Al-Ghashiyah_23_Transliteration" = "Illaa man tawallaa wa kafar";
+
+"Al-Ghashiyah_24_Translation" = "Allah straft hem met de grootste bestraffing.";
+"Al-Ghashiyah_24_Transliteration" = "Fa yu'azzibuhul laahul 'azaabal akbar";
+
+"Al-Ghashiyah_25_Translation" = "Voorwaar, tot Ons is hun terugkeer.";
+"Al-Ghashiyah_25_Transliteration" = "Innaa ilainaaa iyaabahum";
+
+"Al-Ghashiyah_26_Translation" = "En voorwaar: aan Ons is hun afrekening.";
+"Al-Ghashiyah_26_Transliteration" = "Summa inna 'alainaa hisaabahum";
+
+
+// MARK: Al-A'la verses translation
+
+"Al-A'la_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"Al-A'la_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-A'la_1_Translation" = "Prijs de naam van jouw Heer, de Hoogste.";
+"Al-A'la_1_Transliteration" = "Sabbihisma Rabbikal A'laa";
+
+"Al-A'la_2_Translation" = "Degene Die geschapen heeft en vervolmaakt.";
+"Al-A'la_2_Transliteration" = "Allazee khalaqa fasawwaa";
+
+"Al-A'la_3_Translation" = "En Degene Die de maat bepaald heeft en Die geleid heeft.";
+"Al-A'la_3_Transliteration" = "Wallazee qaddara fahadaa";
+
+"Al-A'la_4_Translation" = "Degene die het weidegras doet uitkomen.";
+"Al-A'la_4_Transliteration" = "Wallazeee akhrajal mar'aa";
+
+"Al-A'la_5_Translation" = "En het daarna dor en zwart maakt.";
+"Al-A'la_5_Transliteration" = "Faja'alahoo ghusaaa'an ahwaa";
+
+"Al-A'la_6_Translation" = "Wij zullen (de Koran) aan jou voordragen en jij zult (het) niet vergeten.";
+"Al-A'la_6_Transliteration" = "Sanuqri'uka falaa tansaaa";
+
+"Al-A'la_7_Translation" = "Behalve wat Allah wil. Voorwaar, Hij kent het openlijke en het verborgene.";
+"Al-A'la_7_Transliteration" = "Illaa ma shaa Allah; innahoo ya'lamul jahra wa maa yakhfaa";
+
+"Al-A'la_8_Translation" = "En Wij zullen het gemakkelijke voor jou gemakkelijk maken.";
+"Al-A'la_8_Transliteration" = "Wa nu-yassiruka lilyusraa";
+
+"Al-A'la_9_Translation" = "Vermaan daarom, als de Vermaning (hun) baat.";
+"Al-A'la_9_Transliteration" = "Fazakkir in nafa'atizzikraa";
+
+"Al-A'la_10_Translation" = "Wie (Allah) vreest zal zich laten vermanen.";
+"Al-A'la_10_Transliteration" = "Sa yazzakkaru maiyakhshaa";
+
+"Al-A'la_11_Translation" = "Maar de ellendige zal het vermijden.";
+"Al-A'la_11_Transliteration" = "Wa yatajannabuhal ashqaa";
+
+"Al-A'la_12_Translation" = "Degene die het grote Vuur binnengaat.";
+"Al-A'la_12_Transliteration" = "Allazee yaslan Naaral kubraa";
+
+"Al-A'la_13_Translation" = "Hij zal dan daarin niet sterven en niet leven.";
+"Al-A'la_13_Transliteration" = "Thumma laa yamootu feehaa wa laa 	yahyaa";
+
+"Al-A'la_14_Translation" = "Hij die zich reinigt (van zijn zonden) zal waarlijk slagen.";
+"Al-A'la_14_Transliteration" = "Qad aflaha man tazakkaa";
+
+"Al-A'la_15_Translation" = "En (ook) die de Naam van zijn Heer gedenkt en de shalât verricht.";
+"Al-A'la_15_Transliteration" = "Wa zakaras ma Rabbihee fasallaa";
+
+"Al-A'la_16_Translation" = "Jullie geven zelfs voorrang aan het wereldse leven.";
+"Al-A'la_16_Transliteration" = "Bal tu'siroonal hayaatad dunyaa";
+
+"Al-A'la_17_Translation" = "Terwijl het Hiernamaals beter en blijvender is.";
+"Al-A'la_17_Transliteration" = "Wal Aakhiratu khairunw wa abqaa";
+
+"Al-A'la_18_Translation" = "Voorwaar, dit staat zeker in de vroegere bladen.";
+"Al-A'la_18_Transliteration" = "Inna haazaa lafis suhu fil oolaa";
+
+"Al-A'la_19_Translation" = "De bladen van Ibrâhîm en Môesa. ";
+"Al-A'la_19_Transliteration" = "Suhufi Ibraaheema wa Moosaa";
+
+
+// MARK: At-Tariq verses translation
+
+"At-Tariq_0_Translation" = "In de naam van Allah,\nde Erbarmer, de Meest Barmhartige.";
+"At-Tariq_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"At-Tariq_1_Translation" = "Bij de hemel en de verlichtende ster.";
+"At-Tariq_1_Transliteration" = "Wassamaaa'i wattaariq";
+
+"At-Tariq_2_Translation" = "En wat doet jou weten wat de verlichtende ster is?";
+"At-Tariq_2_Transliteration" = "Wa maaa adraaka mattaariq";
+
+"At-Tariq_3_Translation" = "De doordringende ster.";
+"At-Tariq_3_Transliteration" = "Annajmus saaqib";
+
+"At-Tariq_4_Translation" = "Voorwaar, er is geen ziel of er is een bewaker over aangesteld.";
+"At-Tariq_4_Transliteration" = "In kullu nafsil lammaa 'alaihaa haafiz";
+
+"At-Tariq_5_Translation" = "Laat de mens er daarom over denken waarvan hij geschapen is.";
+"At-Tariq_5_Transliteration" = "Fal yanzuril insaanu mimma khuliq";
+
+"At-Tariq_6_Translation" = "Geschapen is hij van een spurtend water.";
+"At-Tariq_6_Transliteration" = "Khuliqa mim maaa'in daafiq";
+
+"At-Tariq_7_Translation" = "Dat komt van tussen de lendenen en de ribben.";
+"At-Tariq_7_Transliteration" = "Yakhruju mim bainissulbi wat taraaa'ib";
+
+"At-Tariq_8_Translation" = "Voorwaar, Hij heeft zeker macht over zijn terugkeer.";
+"At-Tariq_8_Transliteration" = "Innahoo 'alaa raj'ihee laqaadir";
+
+"At-Tariq_9_Translation" = "Op de Dag dat de harten beproefd worden.";
+"At-Tariq_9_Transliteration" = "Yawma tublas saraaa'ir";
+
+"At-Tariq_10_Translation" = "Dan heeft hij geen kracht en geen helper.";
+"At-Tariq_10_Transliteration" = "Famaa lahoo min quwwatinw wa laa naasir";
+
+"At-Tariq_11_Translation" = "Bij de hemel, regen bevattend.";
+"At-Tariq_11_Transliteration" = "Wassamaaa'i zaatir raj'";
+
+"At-Tariq_12_Translation" = "En bij de aarde, planten bevattend.";
+"At-Tariq_12_Transliteration" = "Wal ardi zaatis sad'";
+
+"At-Tariq_13_Translation" = "Voorwaar, hij (de Koran) is zeker een beslissend Woord.";
+"At-Tariq_13_Transliteration" = "Innahoo laqawlun fasl";
+
+"At-Tariq_14_Translation" = "En hij bevat geen scherts.";
+"At-Tariq_14_Transliteration" = "Wa maa huwa bil hazl";
+
+"At-Tariq_15_Translation" = "Voorwaar, zij beramen een plan.";
+"At-Tariq_15_Transliteration" = "Innahum yakeedoona kaidaa";
+
+"At-Tariq_16_Translation" = "En Ik beraam een plan.";
+"At-Tariq_16_Transliteration" = "Wa akeedu kaidaa";
+
+"At-Tariq_17_Translation" = "Geef daarom de ongelovigen uitstel, geef hun even uitstel.";
+"At-Tariq_17_Transliteration" = "Famahhilil kaafireena amhilhum ruwaidaa";
+
+
+
+//MARK: At-Takwir verses translation
+"At-Takwir_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"At-Takwir_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"At-Takwir_1_Translation" = "Wanneer de zon opgerold wordt.";
+"At-Takwir_1_Transliteration" = "Izash shamsu kuwwirat";
+
+"At-Takwir_2_Translation" = "En wanneer de sterren vallen.";
+"At-Takwir_2_Transliteration" = "Wa izan nujoomun kadarat";
+
+"At-Takwir_3_Translation" = "En wanneer de bergen bewogen worden.";
+"At-Takwir_3_Transliteration" = "Wa izal jibaalu suyyirat";
+
+"At-Takwir_4_Translation" = "En wanneer de drachtige kamelen achtergelaten worden.";
+"At-Takwir_4_Transliteration" = "Wa izal 'ishaaru 'uttilat";
+
+"At-Takwir_5_Translation" = "En wanneer de wilde dieren verzameld worden.";
+"At-Takwir_5_Transliteration" = "Wa izal wuhooshu hushirat";
+
+"At-Takwir_6_Translation" = "En wanneer de zeeën tot koken gebracht worden.";
+"At-Takwir_6_Transliteration" = "Wa izal bihaaru sujjirat";
+
+"At-Takwir_7_Translation" = "En wanneer de zielen verenigd worden.";
+"At-Takwir_7_Transliteration" = "Wa izan nufoosu zuwwijat";
+
+"At-Takwir_8_Translation" = "En wanneer het levend begraven meisje ondervraagd wordt.";
+"At-Takwir_8_Transliteration" = "Wa izal maw'oodatu su'ilat";
+
+"At-Takwir_9_Translation" = "Voor welke zonde zij gedood werd.";
+"At-Takwir_9_Transliteration" = "Bi ayyi zambin qutilat";
+
+"At-Takwir_10_Translation" = "En wanneer de bladen opengeslagen worden.";
+"At-Takwir_10_Transliteration" = "Wa izas suhufu nushirat";
+
+"At-Takwir_11_Translation" = "En wanneer de hemel afgestroopt wordt.";
+"At-Takwir_11_Transliteration" = "Wa izas samaaa'u kushitat";
+
+"At-Takwir_12_Translation" = "En wanneer Djaḥīem (de Hel) ontstoken wordt.";
+"At-Takwir_12_Transliteration" = "Wa izal jaheemu su'-'irat";
+
+"At-Takwir_13_Translation" = "En wanneer het Paradijs nabij gebracht wordt.";
+"At-Takwir_13_Transliteration" = "Wa izal jannatu uzlifat";
+
+"At-Takwir_14_Translation" = "Dan weet een ziel wat zij verricht heeft.";
+"At-Takwir_14_Transliteration" = "'Alimat nafsum maaa ahdarat";
+
+"At-Takwir_15_Translation" = "Ik zweer bij de sterren.";
+"At-Takwir_15_Transliteration" = "Falaaa uqsimu bil khunnas";
+
+"At-Takwir_16_Translation" = "De voortspoedenden, de ondergaanden.";
+"At-Takwir_16_Transliteration" = "Al jawaaril kunnas";
+
+"At-Takwir_17_Translation" = "En bij de nacht wanneer hij opdoemt.";
+"At-Takwir_17_Transliteration" = "Wallaili izaa 'as'as";
+
+"At-Takwir_18_Translation" = "En bij de dageraad wanneer hij gloort.";
+"At-Takwir_18_Transliteration" = "Wassubhi izaa tanaffas";
+
+"At-Takwir_19_Translation" = "Voorwaar, het is zeker het woord van een edele boodschapper.";
+"At-Takwir_19_Transliteration" = "Innahoo laqawlu rasoolin kareem";
+
+"At-Takwir_20_Translation" = "Een bezitter van kracht die een ereplaats heeft bij de Bezitter van de Troon.";
+"At-Takwir_20_Transliteration" = "Zee quwwatin 'inda zil 'arshi makeen";
+
+"At-Takwir_21_Translation" = "Die gehoorzaamd wordt en betrouwbaar is.";
+"At-Takwir_21_Transliteration" = "Mutaa'in samma ameen";
+
+"At-Takwir_22_Translation" = "En jullie metgezel (Mohammed) is niet bezeten.";
+"At-Takwir_22_Transliteration" = "Wa maa saahibukum bimajnoon";
+            
+"At-Takwir_23_Translation" = "\"En voorzeker, hij heeft hem (de engel Djibrîl) aan de heldere horizon gezien.";
+"At-Takwir_23_Transliteration" = "Wa laqad ra aahu bilufuqil mubeen";
+
+"At-Takwir_24_Translation" = "En hij is niet achterhoudend (met berichten) over het onwaarneembare.";
+"At-Takwir_24_Transliteration" = "Wa maa huwa 'alal ghaibi bidaneen";
+
+"At-Takwir_25_Translation" = "En het is niet het Woord van een vervloekte Satan.";
+"At-Takwir_25_Transliteration" = "Wa maa huwa biqawli shaitaanir rajeem";
+
+"At-Takwir_26_Translation" = "Waarheen wenden jullie je dan?";
+"At-Takwir_26_Transliteration" = "Fa ayna tazhaboon";
+
+"At-Takwir_27_Translation" = "Dit is niets anders dan een Vermaning voor de werelden.";
+"At-Takwir_27_Transliteration" = "In huwa illaa zikrul lil'aalameen";
+
+"At-Takwir_28_Translation" = "Voor wie van jullie het rechte (pad) wil volgen.";
+"At-Takwir_28_Transliteration" = "Liman shaaa'a minkum ai yastaqeem";
+
+"At-Takwir_29_Translation" = "En jullie kunnen niets willen, behalve wanneer Allah, de Heer der werelden, het wil.";
+"At-Takwir_29_Transliteration" = "Wa maa tashaaa'oona illaaa ai yashaaa 'al laahu Rabbul 'Aalameen";
+
+//MARK: Abasa verses translation
+"Abasa_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"Abasa_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Abasa_1_Translation" = "Hij (Mohammed) fronste en wendde zich af.";
+"Abasa_1_Transliteration" = "'Abasa wa tawallaa.";
+
+"Abasa_2_Translation" = "Omdat de blinde tot hem kwam.";
+"Abasa_2_Transliteration" = "An jaa-ahul 'a-maa";
+
+"Abasa_3_Translation" = "En wat doet jou het weten, misschien wilde hij zich reinigen (van zonden).";
+"Abasa_3_Transliteration" = "Wa maa yudreeka la'allahu yaz zakkaa.";
+
+"Abasa_4_Translation" = "Of zich laten onderrichten en zou het onderricht hem baten.";
+"Abasa_4_Transliteration" = "Aw yazzakkaru fatanfa 'ahuz zikraa";
+
+"Abasa_5_Translation" = "Wat betreft degene die zich behoefteloos waant.";
+"Abasa_5_Transliteration" = "Amma manis taghnaa";
+
+"Abasa_6_Translation" = "Aan hem schenk jij alle aandacht.";
+"Abasa_6_Transliteration" = "Fa-anta lahu tasaddaa";
+
+"Abasa_7_Translation" = "Terwijl jij niet verantwoordelijk bent als hij zich niet reinigt.";
+"Abasa_7_Transliteration" = "Wa ma 'alaika allaa yaz zakka.";
+
+"Abasa_8_Translation" = "Maar wat betreft degene die haastig tot jou kwam.";
+"Abasa_8_Transliteration" = "Wa amma man jaa-aka yas'a";
+
+"Abasa_9_Translation" = "En hij vreest (Allah).";
+"Abasa_9_Transliteration" = "Wahuwa yakhshaa";
+
+"Abasa_10_Translation" = "Aan hem schenk jij geen aandacht.";
+"Abasa_10_Transliteration" = "Fa-anta 'anhu talah haa.";
+
+"Abasa_11_Translation" = "Nee! Voorwaar, het is een Vermaning.";
+"Abasa_11_Transliteration" = "Kalla innaha tazkirah";
+
+"Abasa_12_Translation" = "Laat wie het wil er lering uit trekken.";
+"Abasa_12_Transliteration" = "Faman shaa a zakarah";
+
+"Abasa_13_Translation" = "(Geschreven) op edele bladen.";
+"Abasa_13_Transliteration" = "Fi suhufim mukar rama";
+
+"Abasa_14_Translation" = "Verheven en gereinigd.";
+"Abasa_14_Transliteration" = "Marfoo'atim mutah hara";
+
+"Abasa_15_Translation" = "Door de handen van schrijvers (engelen).";
+"Abasa_15_Transliteration" = "Bi'aidee safara";
+
+"Abasa_16_Translation" = "Edel, deugdzaam.";
+"Abasa_16_Transliteration" = "Kiraamim bararah.";
+
+"Abasa_17_Translation" = "Verdoemd is de mens. Hoe ondankbaar is hij!";
+"Abasa_17_Transliteration" = "Qutilal-insanu maa akfarah.";
+
+"Abasa_18_Translation" = "Waaruit heeft Hij hem geschapen?";
+"Abasa_18_Transliteration" = "Min aiyyi shai-in Khalaq";
+
+"Abasa_19_Translation" = "Hij heeft hem uit een druppel geschapen en daarna voor hem beschikt.";
+"Abasa_19_Transliteration" = "Min nutfatin khalaqahoo faqaddarah.";
+
+"Abasa_20_Translation" = "Daarna vergemakkelijkt Hij voor hem de weg.";
+"Abasa_20_Transliteration" = "Thummas sabeela yas-sarah";
+
+"Abasa_21_Translation" = "Vervolgens doet Hij hem sterven en doet Hij hem begraven.";
+"Abasa_21_Transliteration" = "Thumma amatahu fa-aqbarah";
+
+"Abasa_22_Translation" = "Daarop, als Hij het wil, wekt Hij hem op.";
+"Abasa_22_Transliteration" = "Thumma iza shaa-a ansharah";
+
+"Abasa_23_Translation" = "Nee, hij heeft nog niet verricht wat Hij hem opdroeg.";
+"Abasa_23_Transliteration" = "Kalla lamma yaqdi maa amarah.";
+
+"Abasa_24_Translation" = "Laat de mens dan naar zijn voedsel kijken.";
+"Abasa_24_Transliteration" = "Falyanzuril insanu ilaa ta-amih";
+
+"Abasa_25_Translation" = "Voorwaar, Wij doen het water in stromen neerkomen.";
+"Abasa_25_Transliteration" = "Anna sabab nalmaa-a sabba.";
+
+"Abasa_26_Translation" = "Daarna doen Wij de aarde openploegen.";
+"Abasa_26_Transliteration" = "Thumma sha qaqnal-arda shaqqa.";
+
+"Abasa_27_Translation" = "Dan doen Wij daarin granen groeien.";
+"Abasa_27_Transliteration" = "Fa ambatna feeha habba";
+
+"Abasa_28_Translation" = "En druiven en groenten.";
+"Abasa_28_Transliteration" = "Wa 'inabaw-wa qadba";
+
+"Abasa_29_Translation" = "En olijfbomen en dadelpalmen.";
+"Abasa_29_Transliteration" = "Wa zaitoonaw wanakh la'";
+
+"Abasa_30_Translation" = "En dichtbegroeide gaarden.";
+"Abasa_30_Transliteration" = "Wa hadaa-iqa ghulba";
+
+"Abasa_31_Translation" = "En vruchten en weidegras.";
+"Abasa_31_Transliteration" = "Wa faki hataw-wa abba.";
+
+"Abasa_32_Translation" = "Als een voorziening voor jullie en voor jullie vee.";
+"Abasa_32_Transliteration" = "Mata'al-lakum wa li-an'amikum.";
+
+"Abasa_33_Translation" = "En wanneer dan de bazuinstoot komt.";
+"Abasa_33_Transliteration" = "Faiza jaa-atis saakhah.";
+
+"Abasa_34_Translation" = "Op die Dag vlucht de mens van zijn broeder.";
+"Abasa_34_Transliteration" = "Yauma yafir-rul mar-u min akheeh";
+
+"Abasa_35_Translation" = "En van zijn moeder en zijn vader.";
+"Abasa_35_Transliteration" = "Wa ummihee wa abeeh";
+
+"Abasa_36_Translation" = "En van zijn vrouw en van zijn kinderen.";
+"Abasa_36_Transliteration" = "Wa sahi batihee wa baneeh.";
+
+"Abasa_37_Translation" = "Een ieder van hen zal op die Dag een bezigheid hebben die hem genoeg is.";
+"Abasa_37_Transliteration" = "Likul limri-im-minhum yawmaa-izin shaa nuy-yughneeh";
+
+"Abasa_38_Translation" = "Gezichten (van de gelovigen) zullen op die Dag stralen.";
+"Abasa_38_Transliteration" = "Wujoo huny-yauma-izim-musfira;";
+
+"Abasa_39_Translation" = "Lachend, verblijd.";
+"Abasa_39_Transliteration" = "Dahi katum mustab shirah";
+
+"Abasa_40_Translation" = "En gezichten (van de ongelovigen) zullen op die Dag met stof bedekt Zijn.";
+"Abasa_40_Transliteration" = "Wa wujoohuy yauma-izin 'alaiha ghabar a";
+ 
+"Abasa_41_Translation" = "En een duisternis zal hen omhullen.";
+"Abasa_41_Transliteration" = "Tarhaquha qatarah.";
+ 
+"Abasa_42_Translation" = "Zij zijn degenen die de zondige ongelovigen zijn.";
+"Abasa_42_Transliteration" = "Ulaa-ika humul-kafa ratul-fajarah.";
+
+//MARK: An-Naziat verses translation
+"An-Naziat_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"An-Naziat_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"An-Naziat_1_Translation" = "Bij de hard uitrukkenden.";
+"An-Naziat_1_Transliteration" = "Wan naazi 'aati gharqa";
+
+"An-Naziat_2_Translation" = "Bij de zacht uittrekkenden.";
+"An-Naziat_2_Transliteration" = "Wan naa shi taati nashta";
+
+"An-Naziat_3_Translation" = "Bij de snel uitvoerenden.";
+"An-Naziat_3_Transliteration" = "Wass saabi-haati sabha";
+
+"An-Naziat_4_Translation" = "De snel voorbijstrevenden.";
+"An-Naziat_4_Transliteration" = "Fass saabi qaati sabqa";
+
+"An-Naziat_5_Translation" = "De uitvoerenden van een bevel.";
+"An-Naziat_5_Transliteration" = "Fal mu dab-bi raati amra";
+
+"An-Naziat_6_Translation" = "Op de Dag waarop de bevende doet beven.";
+"An-Naziat_6_Transliteration" = "Yawma tarjufur raajifa";
+
+"An-Naziat_7_Translation" = "Zal deze gevolgd worden door de (tweede) beving.";
+"An-Naziat_7_Transliteration" = "Tatba'u har raadifa";
+
+"An-Naziat_8_Translation" = "De harten zullen op die Dag bonzen.";
+"An-Naziat_8_Transliteration" = "Quloobuny-yau maaiziw-waaji-fa";
+
+"An-Naziat_9_Translation" = "Hun ogen zullen angstig teneergeslagen zijn.";
+"An-Naziat_9_Transliteration" = "Absaa ruhaa khashi'ah";
+
+"An-Naziat_10_Translation" = "Zij zeggen: 'Zullen wij zeker worden teruggebracht in de vorige staat?";
+"An-Naziat_10_Transliteration" = "Ya qoo loona a-inna lamar doo doona fil haafirah";
+
+"An-Naziat_11_Translation" = "Als wij vergruisde beenderen zijn geworden?'";
+"An-Naziat_11_Transliteration" = "Aizaa kunna 'izaa man-nakhirah";
+
+"An-Naziat_12_Translation" = "Zij zeggen: 'Dat is dan een verliesgevende terugkeer.";
+"An-Naziat_12_Transliteration" = "Qaalu tilka izan karratun khaasirah.";
+
+"An-Naziat_13_Translation" = "En voorwaar, het zal slechts één enkele stoot zijn.";
+"An-Naziat_13_Transliteration" = "Fa inna ma hiya zajratuw-waahida";
+
+"An-Naziat_14_Translation" = "En dan staan zij op het aardoppervlak.";
+"An-Naziat_14_Transliteration" = "Faizaa hum biss saahirah";
+
+"An-Naziat_15_Translation" = "Heeft het verhaal van Môesa jou bereikt?";
+"An-Naziat_15_Transliteration" = "Hal ataaka hadeethu Musaa";
+
+"An-Naziat_16_Translation" = "Toen zijn Heer hem riep in de heilige vallei van Thoewa.";
+"An-Naziat_16_Transliteration" = "Iz nadaahu rabbuhu bil waadil-muqad dasi tuwa";
+                              
+"An-Naziat_17_Translation" = "(Allah zei:) \"Ga naar Fir'aun: voorwaar, hij was in overtreding.";
+"An-Naziat_17_Transliteration" = "Izhab ilaa fir'auna innahu taghaa.";
+
+"An-Naziat_18_Translation" = "En zeg tot hem: 'Heb jij de wil om jezelf te reinigen (van zonde)?";
+"An-Naziat_18_Transliteration" = "Faqul hal laka ilaa-an tazakka.";
+
+"An-Naziat_19_Translation" = "En dat ik jou tot jouw Heer zal leiden, zodat jij (Hem) vreest?'";
+"An-Naziat_19_Transliteration" = "Wa ahdi yaka ila rabbika fatakh sha";
+
+"An-Naziat_20_Translation" = "En hij toonde hem de grote Tekenen (wonderen).";
+"An-Naziat_20_Transliteration" = "Fa araahul-aayatal kubra.";
+
+"An-Naziat_21_Translation" = "Maar hij loochende en was ongehoorzaam.";
+"An-Naziat_21_Transliteration" = "Fa kazzaba wa asaa.";
+
+"An-Naziat_22_Translation" = "Vervolgens draaide hij zich om en vluchtte.";
+"An-Naziat_22_Transliteration" = "Thumma adbara yas'aa.";
+
+"An-Naziat_23_Translation" = "Toen verzamelde hij (zijn tovenaars) en riep uit.";
+"An-Naziat_23_Transliteration" = "Fa hashara fanada.";
+
+"An-Naziat_24_Translation" = "En zei: 'Ik ben jullie heer, de hoogste.'";
+"An-Naziat_24_Transliteration" = "Faqala ana rabbu kumul-a'laa.";
+
+"An-Naziat_25_Translation" = "En Allah greep hem met de bestraffing voor het eerste en het laatste (van wat hij zei).";
+"An-Naziat_25_Transliteration" = "Fa-akha zahul laahu nakalal aakhirati wal-oola.";
+
+"An-Naziat_26_Translation" = "Voorwaar, daarin is zeker onderricht voor wie (Allah) vreest.";
+"An-Naziat_26_Transliteration" = "Inna fee zaalika la'ibratal limaiy-yaksha";
+
+"An-Naziat_27_Translation" = "Is de schepping van jullie moeilijker dan die van de hemel die Hij gebouwd heeft?";
+"An-Naziat_27_Transliteration" = "A-antum a shaddu khalqan amis samaa-u banaaha.";
+
+"An-Naziat_28_Translation" = "Hij verhief haar (de hemel) en vervolmaakte haar.";
+"An-Naziat_28_Transliteration" = "Raf'a sam kaha fasaw waaha";
+
+"An-Naziat_29_Translation" = "En Hij maakte haar nacht duister en Hij maakte haar dag licht.";
+"An-Naziat_29_Transliteration" = "Wa aghtasha lailaha wa akhraja duhaaha.";
+
+"An-Naziat_30_Translation" = "En daarna spreidde Hij de aarde uit.";
+"An-Naziat_30_Transliteration" = "Wal arda b'ada zaalika dahaaha.";
+
+"An-Naziat_31_Translation" = "En Hij bracht uit haar haar water en planten tevoorschijn.";
+"An-Naziat_31_Transliteration" = "Akhraja minha maa-aha wa mar 'aaha.";
+
+"An-Naziat_32_Translation" = "En Hij verstevigde de bergen.";
+"An-Naziat_32_Transliteration" = "Wal jibala arsaaha.";
+
+"An-Naziat_33_Translation" = "Als een voorziening voor jullie en voor jullie vee.";
+"An-Naziat_33_Transliteration" = "Mataa'al lakum wali an 'aamikum.";
+
+"An-Naziat_34_Translation" = "Wanneer dan de overweldigende gebeurtenis plaatsvindt.";
+"An-Naziat_34_Transliteration" = "Fa-izaa jaaa'atit taaam matul kubraa.";
+
+"An-Naziat_35_Translation" = "Op die Dag zal de mens zich herinneren wat hij bedreef.";
+"An-Naziat_35_Transliteration" = "Yauma Yata zakkarul insaanu ma sa'aa.";
+
+"An-Naziat_36_Translation" = "En de Hel zal getoond worden aan wie ziet.";
+"An-Naziat_36_Transliteration" = "Wa burrizatil-jaheemu limany-yaraa.";
+
+"An-Naziat_37_Translation" = "Wat betreft degene die overtrad.";
+"An-Naziat_37_Transliteration" = "Fa ammaa man taghaa.";
+
+"An-Naziat_38_Translation" = "En de voorkeur gaf aan het wereldse leven.";
+"An-Naziat_38_Transliteration" = "Wa aasaral hayaatad dunyaa";
+
+"An-Naziat_39_Translation" = "Voorwaar, de Hel is de verblijfplaats!";
+"An-Naziat_39_Transliteration" = "Fa innal jaheema hiyal maawaa.";
+
+"An-Naziat_40_Translation" = "En wat betreft degene die de macht van zijn Heer vreesde en zijn ziel weerhield van slechte begeerten.";
+"An-Naziat_40_Transliteration" = "Wa ammaa man khaafa maqaama Rabbihee wa nahan nafsa 'anil hawaa";
+
+"An-Naziat_41_Translation" = "Voorwaar, het Paradijs is de verblijfplaats.";
+"An-Naziat_41_Transliteration" = "Fa innal jannata hiyal ma'waa";
+
+"An-Naziat_42_Translation" = "Zij vragen jou naar het Uur: 'Wanneer zal het plaatsvinden?'";
+"An-Naziat_42_Transliteration" = "Yas'aloonaka 'anis saa'ati ayyaana mursaahaa";
+
+"An-Naziat_43_Translation" = "Hoe kan jij dat noemen?";
+"An-Naziat_43_Transliteration" = "Feema anta min zikraahaa";
+
+"An-Naziat_44_Translation" = "Bij jouw Heer is de kennis daarover.";
+"An-Naziat_44_Transliteration" = "Ilaa Rabbika muntahaa haa";
+
+"An-Naziat_45_Translation" = "Voorwaar, jij bent slechts een vermaner voor wie het (Uur) vreest.";
+"An-Naziat_45_Transliteration" = "Innamaaa anta munziru maiy yakshaahaa";
+
+"An-Naziat_46_Translation" = "Op de Dag dat zij het (Uur) zien, zal het zijn alsof zij slechts een avond of de morgen op de aarde verbleven.";
+"An-Naziat_46_Transliteration" = "Ka annahum Yawma yarawnahaa lam yalbasooo illaa 'ashiyyatan aw duhaahaa";
+
+//MARK: An-Naba verses translation
+"An-Naba_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"An-Naba_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"An-Naba_1_Translation" = "Waarover stellen zij elkaar vragen?";
+"An-Naba_1_Transliteration" = "Amma Yatasaa-aloon";
+
+"An-Naba_2_Translation" = "Over de geweldige aankondiging.";
+"An-Naba_2_Transliteration" = "Anin-nabaa-il 'azeem";
+
+"An-Naba_3_Translation" = "Waarover zij redetwisten.";
+"An-Naba_3_Transliteration" = "Allazi hum feehi mukh talifoon";
+
+"An-Naba_4_Translation" = "Nee! Zij zullen het weten.";
+"An-Naba_4_Transliteration" = "Kallaa sa y'alamoon";
+
+"An-Naba_5_Translation" = "Nogmaals nee, zij zullen het weten.";
+"An-Naba_5_Transliteration" = "Thumma kallaa sa y'alamoon";
+
+"An-Naba_6_Translation" = "Hebben Wij de aarde niet tot een uitgespreide plaats gemaakt?";
+"An-Naba_6_Transliteration" = "Alam naj'alil arda mihaa da";
+
+"An-Naba_7_Translation" = "En de bergen als pinnen?";
+"An-Naba_7_Transliteration" = "Wal jibaala au taada";
+
+"An-Naba_8_Translation" = "En Wij hebben jullie in paren geschapen.";
+"An-Naba_8_Transliteration" = "Wa khalaq naakum azwaaja";
+
+"An-Naba_9_Translation" = "En Wij hebben voor jullie de slaap gemaakt, als rust.";
+"An-Naba_9_Transliteration" = "Waja'alna naumakum subata";
+
+"An-Naba_10_Translation" = "En Wij hebben de nacht als een bedekking gemaakt.";
+"An-Naba_10_Transliteration" = "Waja'alnal laila libasa";
+
+"An-Naba_11_Translation" = "En Wij hebben de dag gemaakt om levensonderhoud te zoeken.";
+"An-Naba_11_Transliteration" = "Waja'alnan nahara ma 'aasha";
+
+"An-Naba_12_Translation" = "En Wij hebben boven jullie zeven hechte hemelen gebouwd.";
+"An-Naba_12_Transliteration" = "Wa banaina fauqakum sab 'an shi daada";
+
+"An-Naba_13_Translation" = "En Wij hebben daarin een stralende lamp geplaatst.";
+"An-Naba_13_Transliteration" = "Waja'alna siraajaw wah haaja";
+
+"An-Naba_14_Translation" = "En Wij hebben uit de wolken stromend water gezonden.";
+"An-Naba_14_Transliteration" = "Wa anzalna minal m'usiraati maa-an thaj-jaaja";
+
+"An-Naba_15_Translation" = "Opdat Wij daarmee graan en planten voortbrengen.";
+"An-Naba_15_Transliteration" = "Linukh rija bihee habbaw wana baata";
+
+"An-Naba_16_Translation" = "En dichtbegroeide tuinen.";
+"An-Naba_16_Transliteration" = "Wa jan naatin alfafa";
+
+"An-Naba_17_Translation" = "Voorwaar, de Dag van de Beoordeling is op een vastgesteld tijdstip.";
+"An-Naba_17_Transliteration" = "Inna yaumal-fasli kana meeqaata";
+
+"An-Naba_18_Translation" = "De Dag waarop op de bazuin wordt geblazen zullen jullie komen, groep na groep.";
+"An-Naba_18_Transliteration" = "Yauma yun fakhu fis-soori fataa toona afwaaja";
+
+"An-Naba_19_Translation" = "En de hemel wordt geopend en zij heeft vele poorten.";
+"An-Naba_19_Transliteration" = "Wa futiha tis samaa-u fakaanat abwaaba";
+
+"An-Naba_20_Translation" = "En de bergen worden verpulverd en worden tot luchtspiegelingen.";
+"An-Naba_20_Transliteration" = "Wa suyyi raatil jibaalu fa kaanat saraaba";
+
+"An-Naba_21_Translation" = "Voorwaar, de Hel is als een hinderlaag.";
+"An-Naba_21_Transliteration" = "Inna jahan nama kaanat mirsaada";
+
+"An-Naba_22_Translation" = "Een bestemmingsoord voor de overtreders.";
+"An-Naba_22_Transliteration" = "Lit taa gheena ma aaba";
+
+"An-Naba_23_Translation" = "Zij verblijven eeuwig daarin.";
+"An-Naba_23_Transliteration" = "Laa bitheena feehaa ahqaaba";
+
+"An-Naba_24_Translation" = "Zij zullen daarin geen koelte en geen drank proeven.";
+"An-Naba_24_Transliteration" = "Laa ya zooqoona feeha bar daw walaa sharaaba";
+
+"An-Naba_25_Translation" = "Behalve kokend water en etter.";
+"An-Naba_25_Transliteration" = "Illa hamee maw-wa ghas saaqa";
+
+"An-Naba_26_Translation" = "Als passende vergelding.";
+"An-Naba_26_Transliteration" = "Jazaa-aw wi faaqa";
+
+"An-Naba_27_Translation" = "Voorwaar, zij verwachtten nooit een afrekening.";
+"An-Naba_27_Transliteration" = "Innahum kaanu laa yarjoona hisaaba";
+
+"An-Naba_28_Translation" = "En loochenden Onze Verzen geheel.";
+"An-Naba_28_Transliteration" = "Wa kazzabu bi aayaa tina kizzaba";
+
+"An-Naba_29_Translation" = "En Wij hebben alle zaken in een Boek opgesomd.";
+"An-Naba_29_Transliteration" = "Wa kulla shai-in ahsai naahu kitaa ba";
+
+"An-Naba_30_Translation" = "Proef daarom de straf, en er is voor jullie geen vermeerdering, behalve van de bestraffing.";
+"An-Naba_30_Transliteration" = "Fa zooqoo falan-nazee dakum ill-laa azaaba";
+
+"An-Naba_31_Translation" = "Voorwaar, voor de moettaqīen is er een overwinning.";
+"An-Naba_31_Transliteration" = "Inna lil mutta qeena mafaaza";
+
+"An-Naba_32_Translation" = "Tuinen en druivenstruiken.";
+"An-Naba_32_Transliteration" = "Hadaa-iqa wa a'anaa ba";
+
+"An-Naba_33_Translation" = "En jeugdige gezellinnen, gelijk in leeftijd.";
+"An-Naba_33_Transliteration" = "Wa kaawa 'iba at raaba";
+
+"An-Naba_34_Translation" = "En een gevulde beker.";
+"An-Naba_34_Transliteration" = "Wa ka'san di haaqa";
+
+"An-Naba_35_Translation" = "Zij horen daar geen onzin en geen leugens.";
+"An-Naba_35_Transliteration" = "Laa yasma'oona fiha lagh waw walaa kizzaba";
+
+"An-Naba_36_Translation" = "Als een beloning van jouw Heer, als afrekenende gift.";
+"An-Naba_36_Transliteration" = "Jazaa-am mir-rabbika ataa-an hisaaba";
+
+"An-Naba_37_Translation" = "De Heer der hemelen en der aarde en wat er tussen beide is, de Barmhartige. Zij zijn niet in staat Hem aan te spreken.";
+"An-Naba_37_Transliteration" = "Rabbis samaa waati wal ardi wa maa baina humar rahmaani laa yam likoona minhu khitaaba";
+                            
+"An-Naba_38_Translation" = "Op die Dag staan de Geest (de engel Djibrîl) en de engelen in rijen opgesteld. Zij spreken niet, behalve na wie de Barmhartige toestemming verleent en die zegt wat juist is.";
+"An-Naba_38_Transliteration" = "Yauma yaqoo mur roohu wal malaa-ikatu saf-fal laa yatakallamoona illa man azina lahur rahmaanu wa qaala sawaaba";
+
+"An-Naba_39_Translation" = "Dat is de Dag van de Waarheid. Laat wie wil daarom een terugkeer naar zijn Heer afleggen.";
+"An-Naba_39_Transliteration" = "Zaalikal yaumul haqqu faman shaa-at ta khaaza ill-laa rabbihi ma-aaba";
+
+"An-Naba_40_Translation" = "Voorwaar, Wij hebben jullie gewaarschuwd voor een nabije bestraffing op de Dag dat de mens zal kijken naar wat zijn handen vroeger bedreven, en waarop de ongelovige zal zeggen: O wee, was ik maar aarde.";
+"An-Naba_40_Transliteration" = "In naa anzar naakum azaaban qareebaiy-yauma yan zurul marr-u maa qaddamat yadaahu wa ya qoolul-kaafiru yaa lai tanee kuntu turaaba";
+
+//MARK: Al-Infitar verses translation
+"Al-Infitar_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"Al-Infitar_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Infitar_1_Translation" = "Wanneer de hemel gespleten wordt.";
+"Al-Infitar_1_Transliteration" = "Izas samaaa'un fatarat";
+
+"Al-Infitar_2_Translation" = "En wanneer de sterren vallen.";
+"Al-Infitar_2_Transliteration" = "Wa izal kawaakibun tasarat";
+
+"Al-Infitar_3_Translation" = "En wanneer de zeeën overstromen.";
+"Al-Infitar_3_Transliteration" = "Wa izal bihaaru fujjirat";
+
+"Al-Infitar_4_Translation" = "En wanneer de graven worden omgekeerd.";
+"Al-Infitar_4_Transliteration" = "Wa izal qubooru bu'sirat";
+
+"Al-Infitar_5_Translation" = "Dan weet de ziel wat zij heeft verricht en wat zij nagelaten heeft.";
+"Al-Infitar_5_Transliteration" = "'Alimat nafsum maa qaddamat wa akhkharat";
+
+"Al-Infitar_6_Translation" = "O mens, wat heeft jou weggeleid van jouw Heer, de Edele?";
+"Al-Infitar_6_Transliteration" = "Yaaa ayyuhal insaaanu maa gharraka bi Rabbikal kareem";
+
+"Al-Infitar_7_Translation" = "Degene die jou geschapen heeft en daarna vervolmaakte en de juiste verhoudingen gaf?";
+"Al-Infitar_7_Transliteration" = "Allazee khalaqaka fasaw waaka fa'adalak";
+
+"Al-Infitar_8_Translation" = "In welke vorm Hij ook wilde heeft Hij jou samengesteld.";
+"Al-Infitar_8_Transliteration" = "Feee ayye sooratim maa shaaa'a rakkabak";
+
+"Al-Infitar_9_Translation" = "Nee, jullie loochenen zelfs de Dag des Oordeels.";
+"Al-Infitar_9_Transliteration" = "Kalla bal tukazziboona bid deen";
+
+"Al-Infitar_10_Translation" = "En voorwaar, er zijn zeker bewakers (Engelen) over jullie.";
+"Al-Infitar_10_Transliteration" = "Wa inna 'alaikum lahaa fizeen";
+
+"Al-Infitar_11_Translation" = "Eervollen, schrijvenden.";
+"Al-Infitar_11_Transliteration" = "Kiraaman kaatibeen";
+
+"Al-Infitar_12_Translation" = "Zij weten wat jullie doen.";
+"Al-Infitar_12_Transliteration" = "Ya'lamoona ma taf'aloon";
+
+"Al-Infitar_13_Translation" = "Voorwaar, de deugdzamen verkeren zeker in gelukzaligheid.";
+"Al-Infitar_13_Transliteration" = "Innal abraara lafee na'eem";
+
+"Al-Infitar_14_Translation" = "En voorwaar, de zondaren verkeren zeker in de Hel.";
+"Al-Infitar_14_Transliteration" = "Wa innal fujjaara lafee jaheem";
+
+"Al-Infitar_15_Translation" = "Zij gaan erin op de Dag des Oordeels.";
+"Al-Infitar_15_Transliteration" = "Yaslawnahaa Yawmad Deen";
+
+"Al-Infitar_16_Translation" = "En zij zullen er nooit afwezig zijn.";
+"Al-Infitar_16_Transliteration" = "Wa maa hum 'anhaa bighaaa 'ibeen";
+
+"Al-Infitar_17_Translation" = "En wat doet jou weten wat de Dag des Oordeels is?";
+"Al-Infitar_17_Transliteration" = "Wa maaa adraaka maa Yawmud Deen";
+
+"Al-Infitar_18_Translation" = "Nogmaals, wat doet jou weten wat de Dag des Oordeels is?";
+"Al-Infitar_18_Transliteration" = "Summa maaa adraaka maa Yawmud Deen";
+
+"Al-Infitar_19_Translation" = "Op die Dag is geen ziel bij machte iets voor een (andere) ziel te doen. En het bevel behoort op die Dag aan Allah.";
+"Al-Infitar_19_Transliteration" = "Yawma laa tamliku nafsul linafsin shai'anw walamru yawma'izil lillaah";
+
+//MARK: Al-Mutaffifin verses translation
+"Al-Mutaffifin_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"Al-Mutaffifin_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Mutaffifin_1_Translation" = "Wee de zwendelaars!";
+"Al-Mutaffifin_1_Transliteration" = "Wailul lil mutaffifeen";
+
+"Al-Mutaffifin_2_Translation" = "Degenen die wanneer zij mensen voor zich laten wegen de volle maat eisen.";
+"Al-Mutaffifin_2_Transliteration" = "Allazeena izak taaloo 'alan naasi yastawfoon";
+
+"Al-Mutaffifin_3_Translation" = "Maar wanneer zij voor anderen afmeten of voor hen afwegen, benadelen zij (hen).";
+"Al-Mutaffifin_3_Transliteration" = "Wa izaa kaaloohum aw wazanoohum yukhsiroon";
+
+"Al-Mutaffifin_4_Translation" = "Zijn diegenen dan er niet van overtuigd dat zij opgewekt zullen worden?";
+"Al-Mutaffifin_4_Transliteration" = "Alaa yazunnu ulaaa'ika annahum mab'oosoon";
+
+"Al-Mutaffifin_5_Translation" = "Op een geweldige Dag?";
+"Al-Mutaffifin_5_Transliteration" = "Li Yawmin 'Azeem";
+
+"Al-Mutaffifin_6_Translation" = "Op de Dag waarop de mensen voor de Heer der Werelden staan?";
+"Al-Mutaffifin_6_Transliteration" = "Yawma yaqoomun naasu li Rabbil 'aalameen";
+
+"Al-Mutaffifin_7_Translation" = "Nee, voorwaar, het boek van de zondigen is in Siddjîen.";
+"Al-Mutaffifin_7_Transliteration" = "Kallaaa inna kitaabal fujjaari lafee Sijjeen";
+
+"Al-Mutaffifin_8_Translation" = "En wat doet jou weten wat Siddjîen is?";
+"Al-Mutaffifin_8_Transliteration" = "Wa maa adraaka maa Sijjeen";
+
+"Al-Mutaffifin_9_Translation" = "Een volbeschreven boek.";
+"Al-Mutaffifin_9_Transliteration" = "Kitaabum marqoom";
+
+"Al-Mutaffifin_10_Translation" = "Wee die Dag de loochenaars!";
+"Al-Mutaffifin_10_Transliteration" = "Wailuny yawma'izil lil mukazzibeen";
+
+"Al-Mutaffifin_11_Translation" = "Degenen die de Dag des Oordeels loochenen.";
+"Al-Mutaffifin_11_Transliteration" = "Allazeena yukazziboona bi yawmid deen";
+
+"Al-Mutaffifin_12_Translation" = "En niemand loochent die behalve elke zondige overtreder.";
+"Al-Mutaffifin_12_Transliteration" = "Wa maa yukazzibu biheee illaa kullu mu'tadin aseem";
+
+"Al-Mutaffifin_13_Translation" = "Wanneer Onze Verzen aan hem worden voorgedragen, zegt hij: 'Fabels van de vroegeren!'";
+"Al-Mutaffifin_13_Transliteration" = "Izaa tutlaa'alaihi aayaatunaa qaala asaateerul awwaleen";
+
+"Al-Mutaffifin_14_Translation" = "Nee! Wat zij plachten te doen heeft zelfs hun harten bedekt.";
+"Al-Mutaffifin_14_Transliteration" = "Kallaa bal raana 'alaa quloobihim maa kaanoo yaksiboon";
+
+"Al-Mutaffifin_15_Translation" = "Nee, voorwaar, zij zullen zeker op die Dag van hun Heer afgescheiden zijn.";
+"Al-Mutaffifin_15_Transliteration" = "Kallaaa innahum 'ar Rabbihim yawma'izil lamah jooboon";
+
+"Al-Mutaffifin_16_Translation" = "Vervolgens zullen zij zeker Djahîm (de Hel) binnengaan.";
+"Al-Mutaffifin_16_Transliteration" = "Summa innahum lasaa lul jaheem";
+
+"Al-Mutaffifin_17_Translation" = "Daarop wordt gezegd: 'Dit is dat wat jullie plachten te loochenen.'";
+"Al-Mutaffifin_17_Transliteration" = "Summa yuqaalu haazal lazee kuntum bihee tukazziboon";
+
+"Al-Mutaffifin_18_Translation" = "Nee! Voorwaar, het boek van de deugdzamen is zeker in ‘Illiyyôen.";
+"Al-Mutaffifin_18_Transliteration" = "Kallaaa inna kitaabal abraari lafee'Illiyyeen";
+
+"Al-Mutaffifin_19_Translation" = "En wat doet jou weten wat ‘Illiyyôen is?";
+"Al-Mutaffifin_19_Transliteration" = "Wa maaa adraaka maa 'Illiyyoon";
+
+"Al-Mutaffifin_20_Translation" = "Een volbeschreven Boek.";
+"Al-Mutaffifin_20_Transliteration" = "Kitaabum marqoom";
+
+"Al-Mutaffifin_21_Translation" = "De bij (Allah) gebrachten zijn er getuigen van.";
+"Al-Mutaffifin_21_Transliteration" = "Yashhadu hul muqarra boon";
+
+"Al-Mutaffifin_22_Translation" = "Voorwaar, de deugdzamen zullen zeker in Na’îm (het Paradijs) vertoeven.";
+"Al-Mutaffifin_22_Transliteration" = "Innal abraara lafee Na'eem";
+
+"Al-Mutaffifin_23_Translation" = "Op rustbanken kijken zij toe.";
+"Al-Mutaffifin_23_Transliteration" = "'Alal araaa'iki yanzuroon";
+
+"Al-Mutaffifin_24_Translation" = "Jij herkent in hun gezichten de stralende gelukzaligheid";
+"Al-Mutaffifin_24_Transliteration" = "Ta'rifu fee wujoohihim nadratan na'eem";
+
+"Al-Mutaffifin_25_Translation" = "Hun wordt verzegeld drinken ingeschonken.";
+"Al-Mutaffifin_25_Transliteration" = "Yusqawna mir raheeqim makhtoom";
+
+"Al-Mutaffifin_26_Translation" = "Waarvan het zegel van muskus is, en laten de wedijveraars hierom dan wedijveren.";
+"Al-Mutaffifin_26_Transliteration" = "Khitaamuhoo misk; wa fee zaalika falyatanaafasil Mutanaafisoon";
+
+"Al-Mutaffifin_27_Translation" = "En zijn mengdrank is van (de bron) Tasnîm.";
+"Al-Mutaffifin_27_Transliteration" = "Wa mizaajuhoo min Tasneem";
+
+"Al-Mutaffifin_28_Translation" = "Een bron waarvan de nabijgebrachten drinken.";
+"Al-Mutaffifin_28_Transliteration" = "'Ainaiy yashrabu bihal muqarraboon";
+
+"Al-Mutaffifin_29_Translation" = "Voorwaar, degenen die zondigden plachten over degenen die geloofden te lachen.";
+"Al-Mutaffifin_29_Transliteration" = "Innal lazeena ajramoo kaanoo minal lazeena aamanoo yadhakoon";
+
+"Al-Mutaffifin_30_Translation" = "En wanneer zij aan hen voorbijgingen, knipoogden zij naar elkaar.";
+"Al-Mutaffifin_30_Transliteration" = "Wa izaa marroo bihim yataghaamazoon";
+
+"Al-Mutaffifin_31_Translation" = "En wanneer zij terugkeerden naar hun volk, keerden zij verheugd terug.";
+"Al-Mutaffifin_31_Transliteration" = "Wa izan qalabooo ilaaa ahlihimun qalaboo fakiheen";
+
+"Al-Mutaffifin_32_Translation" = "En wanneer zij hen zagen, zeiden zij: 'Voorwaar, zij zijn zeker dwalend.'";
+"Al-Mutaffifin_32_Transliteration" = "Wa izaa ra awhum qaalooo inna haaa'ulaaa'i ladaaal loon";
+
+"Al-Mutaffifin_33_Translation" = "En zij zijn niet als bewakers over hen gezonden.";
+"Al-Mutaffifin_33_Transliteration" = "Wa maaa ursiloo 'alaihim haafizeen";
+
+"Al-Mutaffifin_34_Translation" = "Maar op deze Dag zullen degenen die geloven lachen over de ongelovigen.";
+"Al-Mutaffifin_34_Transliteration" = "Fal yawmal lazeena aamanoo minal kuffaari yadhakoon";
+
+"Al-Mutaffifin_35_Translation" = "Op rustbanken kijken zij toe.";
+"Al-Mutaffifin_35_Transliteration" = "'Alal araaa'iki yanzuroon";
+
+"Al-Mutaffifin_36_Translation" = "Worden de ongelovigen niet vergolden voor wat zij plachten te doen?";
+"Al-Mutaffifin_36_Transliteration" = "Hal suwwibal kuffaaru maa kaanoo yaf'aloon";
+
+//MARK: Al-Inshiqaq verses translation
+"Al-Inshiqaq_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"Al-Inshiqaq_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Inshiqaq_1_Translation" = "Wanneer de hemel verscheurd wordt.";
+"Al-Inshiqaq_1_Transliteration" = "Izas samaaa'un shaqqat";
+
+"Al-Inshiqaq_2_Translation" = "En hij (de hemel) naar zijn Heer luistert en zijn plicht vervult.";
+"Al-Inshiqaq_2_Transliteration" = "Wa azinat li Rabbihaa wa huqqat";
+
+"Al-Inshiqaq_3_Translation" = "En wanneer de aarde uitgespreid wordt.";
+"Al-Inshiqaq_3_Transliteration" = "Wa izal ardu muddat";
+
+"Al-Inshiqaq_4_Translation" = "En uitwerpt wat in haar is en zich ledigt.";
+"Al-Inshiqaq_4_Transliteration" = "Wa alqat maa feehaa wa takhallat";
+
+"Al-Inshiqaq_5_Translation" = "En zij naar haar Heer luistert en haar plicht vervult.";
+"Al-Inshiqaq_5_Transliteration" = "Wa azinat li Rabbihaa wa huqqat";
+
+"Al-Inshiqaq_6_Translation" = "O mens: voorwaar, jij streeft moeizaam naar jouw Heer en jij zult Hem ontmoeten.";
+"Al-Inshiqaq_6_Transliteration" = "Yaaa ayyuhal insaanu innaka kaadihun ilaa Rabbika kad han famulaaqeeh";
+
+"Al-Inshiqaq_7_Translation" = "Wat betreft degene die dan zijn boek in zijn rechterhand wordt gegeven.";
+"Al-Inshiqaq_7_Transliteration" = "Fa ammaa man ootiya kitaabahoo biyameenih";
+
+"Al-Inshiqaq_8_Translation" = "Hij zal een lichte afrekening berekend worden.";
+"Al-Inshiqaq_8_Transliteration" = "Fasawfa yuhaasabu hi saabai yaseeraa";
+
+"Al-Inshiqaq_9_Translation" = "En hij zal verheugd tot zijn familie terugkeren.";
+"Al-Inshiqaq_9_Transliteration" = "Wa yanqalibu ilaaa ahlihee masrooraa";
+
+"Al-Inshiqaq_10_Translation" = "En wat betreft degene die dan zijn boek achter zijn rug wordt gegeven.";
+"Al-Inshiqaq_10_Transliteration" = "Wa ammaa man ootiya kitaabahoo waraaa'a zahrih";
+
+"Al-Inshiqaq_11_Translation" = "Hij zal om vernietiging schreeuwen.";
+"Al-Inshiqaq_11_Transliteration" = "Fasawfa yad'oo subooraa";
+
+"Al-Inshiqaq_12_Translation" = "En hij zal in Sa’îr (de Hel) binnengaan.";
+"Al-Inshiqaq_12_Transliteration" = "Wa yaslaa sa'eeraa";
+
+"Al-Inshiqaq_13_Translation" = "Voorwaar, bij zijn familie was hij verheugd.";
+"Al-Inshiqaq_13_Transliteration" = "Innahoo kaana feee ahlihee masrooraa";
+
+"Al-Inshiqaq_14_Translation" = "Voorwaar, hij dacht dat hij nooit (naar zijn Heer) zou terugkeren.";
+"Al-Inshiqaq_14_Transliteration" = "Innahoo zanna al lai yahoor";
+
+"Al-Inshiqaq_15_Translation" = "Nee! Voorwaar, zijn Heer sloeg hem gade.";
+"Al-Inshiqaq_15_Transliteration" = "Balaaa inna Rabbahoo kaana bihee baseeraa";
+
+"Al-Inshiqaq_16_Translation" = "Ik zweer bij het avondrood.";
+"Al-Inshiqaq_16_Transliteration" = "Falaaa uqsimu bishshafaq";
+
+"Al-Inshiqaq_17_Translation" = "En bij de nacht en wat hij omhult.";
+"Al-Inshiqaq_17_Transliteration" = "Wallaili wa maa wasaq";
+
+"Al-Inshiqaq_18_Translation" = "En bij de maan wanneer zij vol is.";
+"Al-Inshiqaq_18_Transliteration" = "Walqamari izat tasaq";
+
+"Al-Inshiqaq_19_Translation" = "Jullie zullen zeker voortgaan, van fase naar fase.";
+"Al-Inshiqaq_19_Transliteration" = "Latarkabunna tabaqan 'an tabaq";
+
+"Al-Inshiqaq_20_Translation" = "Wat is er met hen, dat zij niet geloven?";
+"Al-Inshiqaq_20_Transliteration" = "Famaa lahum laa yu'minoon";
+
+"Al-Inshiqaq_21_Translation" = "En wanneer de Koran aan hen wordt voorgedragen knielen zij niet neer.";
+"Al-Inshiqaq_21_Transliteration" = "Wa izaa quri'a 'alaihimul Quraanu laa yasjudoon";
+
+"Al-Inshiqaq_22_Translation" = "Degenen die niet geloven loochenen zelfs.";
+"Al-Inshiqaq_22_Transliteration" = "Balil lazeena kafaroo yukazziboon";
+
+"Al-Inshiqaq_23_Translation" = "Maar Allah weet het beste wat zij verbergen.";
+"Al-Inshiqaq_23_Transliteration" = "Wallaahu a'lamu bimaa yoo'oon";
+
+"Al-Inshiqaq_24_Translation" = "Verkondig hun dan een pijnlijke bestraffing.";
+"Al-Inshiqaq_24_Transliteration" = "Fabashshirhum bi'azaabin aleem";
+
+"Al-Inshiqaq_25_Translation" = "Behalve degenen die geloven en goede daden verrichten, voor hen is er een oneindige beloning.";
+"Al-Inshiqaq_25_Transliteration" = "Illal lazeena aamanoo wa 'amilus saalihaati lahum ajrun ghairu mamnoon";
+
+//MARK: Al-Burooj verses translation
+"Al-Burooj_0_Translation" = "In de naam van Allah, de Erbarmer, de Meest Barmhartige.";
+"Al-Burooj_0_Transliteration" = "Bismillaahir Rahmaanir Raheem";
+
+"Al-Burooj_1_Translation" = "Bij de hemel en zijn sterrenstelsels.";
+"Al-Burooj_1_Transliteration" = "Wassamaaa'i zaatil burooj";
+
+"Al-Burooj_2_Translation" = "Bij de aangezegde Dag.";
+"Al-Burooj_2_Transliteration" = "Wal yawmil maw'ood";
+
+"Al-Burooj_3_Translation" = "Bij de getuige en waarvan getuigd wordt.";
+"Al-Burooj_3_Transliteration" = "Wa shaahidinw wa mashhood";
+
+"Al-Burooj_4_Translation" = "Verdoemd zijn de gravers van de kuil.";
+"Al-Burooj_4_Transliteration" = "Qutila as haabul ukhdood";
+
+"Al-Burooj_5_Translation" = "Van het vuur met zijn brandhout.";
+"Al-Burooj_5_Transliteration" = "Annaari zaatil waqood";
+
+"Al-Burooj_6_Translation" = "Toen zij er omheen zaten.";
+"Al-Burooj_6_Transliteration" = "Iz hum 'alaihaa qu'ood";
+
+"Al-Burooj_7_Translation" = "En zij getuige waren van wat zij de gelovigen aandeden.";
+"Al-Burooj_7_Transliteration" = "Wa hum 'alaa maa yaf'aloona bilmu 'mineena shuhood";
+
+"Al-Burooj_8_Translation" = "En zij wreekten zich alleen op hen omdat zij geloofden in Allah, de Geweldige, de Geprezene.";
+"Al-Burooj_8_Transliteration" = "Wa maa naqamoo minhum illaaa aiyu'minoo billaahil 'azeezil Hameed";
+
+"Al-Burooj_9_Translation" = "Degene die de heerschappij over de hemelen en de aarde heeft. En Allah is Getuige over alle zaken.";
+"Al-Burooj_9_Transliteration" = "Allazee lahoo mulkus samaawaati wal ard; wallaahu 'alaa kulli shai 'in Shaheed";
+
+"Al-Burooj_10_Translation" = "Voorwaar, degenen die de gelovige mannen en vrouwen bestraften en daarna geen berouw toonden, voor hen is de bestraffing van de Hel en voor hen is de verbrandende bestraffing.";
+"Al-Burooj_10_Transliteration" = "Innal lazeena fatanul mu'mineena wal mu'minaati summa lam yatooboo falahum 'azaabu Jahannama wa lahum 'azaabul hareeq";
+
+"Al-Burooj_11_Translation" = "Voorwaar, degenen die geloven en goede daden verrichten, voor hen is het Paradijs waar de rivieren onderdoor stromen. Dat is de grote overwinning.";
+"Al-Burooj_11_Transliteration" = "Innal lazeena aamanoo wa 'amilus saalihaati lahum Jannaatun tajree min tahtihal anhaar; zaalikal fawzul kabeer";
+
+"Al-Burooj_12_Translation" = "Voorwaar, de greep van jouw Heer is zeker hard.";
+"Al-Burooj_12_Transliteration" = "Inna batsha Rabbika lashadeed";
+
+"Al-Burooj_13_Translation" = "Voorwaar, Hij is het die schept en doet herleven.";
+"Al-Burooj_13_Transliteration" = "Innahoo Huwa yubdi'u wa yu'eed";
+
+"Al-Burooj_14_Translation" = "Hij is de Vergevensgezinde, de Liefdevolle.";
+"Al-Burooj_14_Transliteration" = "Wa Huwal Ghafoorul Wadood";
+
+"Al-Burooj_15_Translation" = "Bezitter van de Troon, de Meest Vrijgevige.";
+"Al-Burooj_15_Transliteration" = "Zul 'Arshil Majeed";
+
+"Al-Burooj_16_Translation" = "Uitvoerder van wat Hij wil.";
+"Al-Burooj_16_Transliteration" = "Fa' 'aalul limaa yureed";
+
+"Al-Burooj_17_Translation" = "Heeft het bericht van de legers jou bereikt?";
+"Al-Burooj_17_Transliteration" = "Hal ataaka hadeesul junood";
+
+"Al-Burooj_18_Translation" = "Van Fir’aun en de Tsamôed?";
+"Al-Burooj_18_Transliteration" = "Fir'awna wa Samood";
+
+"Al-Burooj_19_Translation" = "Degenen die niet geloven gaan zelfs door met loochenen.";
+"Al-Burooj_19_Transliteration" = "Balil lazeena kafaroo fee takzeeb";
+
+"Al-Burooj_20_Translation" = "En Allah omsingelt hen van achteren.";
+"Al-Burooj_20_Transliteration" = "Wallaahu minw waraaa'ihim muheet";
+
+"Al-Burooj_21_Translation" = "Het is zelfs een glorierijke Koran.";
+"Al-Burooj_21_Transliteration" = "Bal huwa Quraanum Majeed";
+
+"Al-Burooj_22_Translation" = "In de Lauhoelmahfôezh.";
+"Al-Burooj_22_Transliteration" = "Fee Lawhim Mahfooz";

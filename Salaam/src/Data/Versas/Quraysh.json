@@ -1,0 +1,32 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Quraysh_0_Translation",
+        "transliterationKey" : "Quraysh_0_Transliteration",
+        "audioFile" : "Quraysh_0"
+    },
+    {
+        "text" : "لِإِيلَافِ قُرَيْشٍ",
+        "translationKey" : "Quraysh_1_Translation",
+        "transliterationKey" : "Quraysh_1_Transliteration",
+        "audioFile" : "Quraysh_1"
+    },
+    {
+        "text" : "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+        "translationKey" : "Quraysh_2_Translation",
+        "transliterationKey" : "Quraysh_2_Transliteration",
+        "audioFile" : "Quraysh_2"
+    },
+    {
+        "text" : "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+        "translationKey" : "Quraysh_3_Translation",
+        "transliterationKey" : "Quraysh_3_Transliteration",
+        "audioFile" : "Quraysh_3"
+    },
+    {
+        "text" : "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+        "translationKey" : "Quraysh_4_Translation",
+        "transliterationKey" : "Quraysh_4_Transliteration",
+        "audioFile" : "Quraysh_4"
+    }
+]

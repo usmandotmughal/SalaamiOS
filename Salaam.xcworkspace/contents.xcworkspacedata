@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:generate_surah_names/generate_surah_names.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:generate_translation/generate_translation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:generate_surah_json/generate_surah_json.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:parser/parser.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Salaam.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

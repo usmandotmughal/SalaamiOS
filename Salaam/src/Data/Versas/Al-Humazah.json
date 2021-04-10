@@ -1,0 +1,62 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Humazah_0_Translation",
+        "transliterationKey" : "Al-Humazah_0_Transliteration",
+        "audioFile" : "Al-Humazah_0"
+    },
+    {
+        "text" : "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+        "translationKey" : "Al-Humazah_1_Translation",
+        "transliterationKey" : "Al-Humazah_1_Transliteration",
+        "audioFile" : "Al-Humazah_1"
+    },
+    {
+        "text" : "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+        "translationKey" : "Al-Humazah_2_Translation",
+        "transliterationKey" : "Al-Humazah_2_Transliteration",
+        "audioFile" : "Al-Humazah_2"
+    },
+    {
+        "text" : "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+        "translationKey" : "Al-Humazah_3_Translation",
+        "transliterationKey" : "Al-Humazah_3_Transliteration",
+        "audioFile" : "Al-Humazah_3"
+    },
+    {
+        "text" : "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+        "translationKey" : "Al-Humazah_4_Translation",
+        "transliterationKey" : "Al-Humazah_4_Transliteration",
+        "audioFile" : "Al-Humazah_4"
+    },
+    {
+        "text" : "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+        "translationKey" : "Al-Humazah_5_Translation",
+        "transliterationKey" : "Al-Humazah_5_Transliteration",
+        "audioFile" : "Al-Humazah_5"
+    },
+    {
+        "text" : "نَارُ اللَّهِ الْمُوقَدَةُ",
+        "translationKey" : "Al-Humazah_6_Translation",
+        "transliterationKey" : "Al-Humazah_6_Transliteration",
+        "audioFile" : "Al-Humazah_6"
+    },
+    {
+        "text" : "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+        "translationKey" : "Al-Humazah_7_Translation",
+        "transliterationKey" : "Al-Humazah_7_Transliteration",
+        "audioFile" : "Al-Humazah_7"
+    },
+    {
+        "text" : "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+        "translationKey" : "Al-Humazah_8_Translation",
+        "transliterationKey" : "Al-Humazah_8_Transliteration",
+        "audioFile" : "Al-Humazah_8"
+    },
+    {
+        "text" : "فِي عَمَدٍ مُمَدَّدَةٍ",
+        "translationKey" : "Al-Humazah_9_Translation",
+        "transliterationKey" : "Al-Humazah_9_Transliteration",
+        "audioFile" : "Al-Humazah_9"
+    }
+]

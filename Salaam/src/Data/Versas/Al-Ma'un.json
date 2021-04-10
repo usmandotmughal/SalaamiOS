@@ -1,0 +1,50 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Ma'un_0_Translation",
+        "transliterationKey" : "Al-Ma'un_0_Transliteration",
+        "audioFile" : "Al-Ma'un_0"
+    },
+    {
+        "text" : "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+        "translationKey" : "Al-Ma'un_1_Translation",
+        "transliterationKey" : "Al-Ma'un_1_Transliteration",
+        "audioFile" : "Al-Ma'un_1"
+    },
+    {
+        "text" : "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+        "translationKey" : "Al-Ma'un_2_Translation",
+        "transliterationKey" : "Al-Ma'un_2_Transliteration",
+        "audioFile" : "Al-Ma'un_2"
+    },
+    {
+        "text" : "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+        "translationKey" : "Al-Ma'un_3_Translation",
+        "transliterationKey" : "Al-Ma'un_3_Transliteration",
+        "audioFile" : "Al-Ma'un_3"
+    },
+    {
+        "text" : "فَوَيْلٌ لِلْمُصَلِّينَ",
+        "translationKey" : "Al-Ma'un_4_Translation",
+        "transliterationKey" : "Al-Ma'un_4_Transliteration",
+        "audioFile" : "Al-Ma'un_4"
+    },
+    {
+        "text" : "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+        "translationKey" : "Al-Ma'un_5_Translation",
+        "transliterationKey" : "Al-Ma'un_5_Transliteration",
+        "audioFile" : "Al-Ma'un_5"
+    },
+    {
+        "text" : "الَّذِينَ هُمْ يُرَاءُونَ",
+        "translationKey" : "Al-Ma'un_6_Translation",
+        "transliterationKey" : "Al-Ma'un_6_Transliteration",
+        "audioFile" : "Al-Ma'un_6"
+    },
+    {
+        "text" : "وَيَمْنَعُونَ الْمَاعُونَ",
+        "translationKey" : "Al-Ma'un_7_Translation",
+        "transliterationKey" : "Al-Ma'un_7_Transliteration",
+        "audioFile" : "Al-Ma'un_7"
+    },
+]

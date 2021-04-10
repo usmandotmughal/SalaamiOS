@@ -1,0 +1,38 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Falaq_0_Translation",
+        "transliterationKey" : "Al-Falaq_0_Transliteration",
+        "audioFile" : "Al-Falaq_0"
+    },
+    {
+        "text" : "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "translationKey" : "Al-Falaq_1_Translation",
+        "transliterationKey" : "Al-Falaq_1_Transliteration",
+        "audioFile" : "Al-Falaq_1"
+    },
+    {
+        "text" : "مِنْ شَرِّ مَا خَلَقَ",
+        "translationKey" : "Al-Falaq_2_Translation",
+        "transliterationKey" : "Al-Falaq_2_Transliteration",
+        "audioFile" : "Al-Falaq_2"
+    },
+    {
+        "text" : "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "translationKey" : "Al-Falaq_3_Translation",
+        "transliterationKey" : "Al-Falaq_3_Transliteration",
+        "audioFile" : "Al-Falaq_3"
+    },
+    {
+        "text" : "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "translationKey" : "Al-Falaq_4_Translation",
+        "transliterationKey" : "Al-Falaq_4_Transliteration",
+        "audioFile" : "Al-Falaq_4"
+    },
+    {
+        "text" : "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "translationKey" : "Al-Falaq_5_Translation",
+        "transliterationKey" : "Al-Falaq_5_Transliteration",
+        "audioFile" : "Al-Falaq_5"
+    },
+]

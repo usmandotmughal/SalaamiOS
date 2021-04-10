@@ -1,0 +1,44 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Kafirun_0_Translation",
+        "transliterationKey" : "Al-Kafirun_0_Transliteration",
+        "audioFile" : "Al-Kafirun_0"
+    },
+    {
+        "text" : "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+        "translationKey" : "Al-Kafirun_1_Translation",
+        "transliterationKey" : "Al-Kafirun_1_Transliteration",
+        "audioFile" : "Al-Kafirun_1"
+    },
+    {
+        "text" : "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "translationKey" : "Al-Kafirun_2_Translation",
+        "transliterationKey" : "Al-Kafirun_2_Transliteration",
+        "audioFile" : "Al-Kafirun_2"
+    },
+    {
+        "text" : "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "translationKey" : "Al-Kafirun_3_Translation",
+        "transliterationKey" : "Al-Kafirun_3_Transliteration",
+        "audioFile" : "Al-Kafirun_3"
+    },
+    {
+        "text" : "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+        "translationKey" : "Al-Kafirun_4_Translation",
+        "transliterationKey" : "Al-Kafirun_4_Transliteration",
+        "audioFile" : "Al-Kafirun_4"
+    },
+    {
+        "text" : "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "translationKey" : "Al-Kafirun_5_Translation",
+        "transliterationKey" : "Al-Kafirun_5_Transliteration",
+        "audioFile" : "Al-Kafirun_5"
+    },
+    {
+        "text" : "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "translationKey" : "Al-Kafirun_6_Translation",
+        "transliterationKey" : "Al-Kafirun_6_Transliteration",
+        "audioFile" : "Al-Kafirun_6"
+    }
+]

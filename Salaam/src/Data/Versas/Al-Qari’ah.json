@@ -1,0 +1,74 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-Qari’ah_0_Translation",
+        "transliterationKey" : "Al-Qari’ah_0_Transliteration",
+        "audioFile" : "Al-Qari’ah_0"
+    },
+    {
+        "text" : "الْقَارِعَةُ",
+        "translationKey" : "Al-Qari’ah_1_Translation",
+        "transliterationKey" : "Al-Qari’ah_1_Transliteration",
+        "audioFile" : "Al-Qari’ah_1"
+    },
+    {
+        "text" : "مَا الْقَارِعَةُ",
+        "translationKey" : "Al-Qari’ah_2_Translation",
+        "transliterationKey" : "Al-Qari’ah_2_Transliteration",
+        "audioFile" : "Al-Qari’ah_2"
+    },
+    {
+        "text" : "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+        "translationKey" : "Al-Qari’ah_3_Translation",
+        "transliterationKey" : "Al-Qari’ah_3_Transliteration",
+        "audioFile" : "Al-Qari’ah_3"
+    },
+    {
+        "text" : "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+        "translationKey" : "Al-Qari’ah_4_Translation",
+        "transliterationKey" : "Al-Qari’ah_4_Transliteration",
+        "audioFile" : "Al-Qari’ah_4"
+    },
+    {
+        "text" : "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+        "translationKey" : "Al-Qari’ah_5_Translation",
+        "transliterationKey" : "Al-Qari’ah_5_Transliteration",
+        "audioFile" : "Al-Qari’ah_5"
+    },
+    {
+        "text" : "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+        "translationKey" : "Al-Qari’ah_6_Translation",
+        "transliterationKey" : "Al-Qari’ah_6_Transliteration",
+        "audioFile" : "Al-Qari’ah_6"
+    },
+    {
+        "text" : "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+        "translationKey" : "Al-Qari’ah_7_Translation",
+        "transliterationKey" : "Al-Qari’ah_7_Transliteration",
+        "audioFile" : "Al-Qari’ah_7"
+    },
+    {
+        "text" : "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+        "translationKey" : "Al-Qari’ah_8_Translation",
+        "transliterationKey" : "Al-Qari’ah_8_Transliteration",
+        "audioFile" : "Al-Qari’ah_8"
+    },
+    {
+        "text" : "فَأُمُّهُ هَاوِيَةٌ",
+        "translationKey" : "Al-Qari’ah_9_Translation",
+        "transliterationKey" : "Al-Qari’ah_9_Transliteration",
+        "audioFile" : "Al-Qari’ah_9"
+    },
+    {
+        "text" : "وَمَا أَدْرَاكَ مَا هِيَهْ",
+        "translationKey" : "Al-Qari’ah_10_Translation",
+        "transliterationKey" : "Al-Qari’ah_10_Transliteration",
+        "audioFile" : "Al-Qari’ah_10"
+    },
+    {
+        "text" : "نَارٌ حَامِيَةٌ",
+        "translationKey" : "Al-Qari’ah_11_Translation",
+        "transliterationKey" : "Al-Qari’ah_11_Transliteration",
+        "audioFile" : "Al-Qari’ah_11"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Az-Zalzalah_0_Translation",
+        "transliterationKey" : "Az-Zalzalah_0_Transliteration",
+        "audioFile" : "Az-Zalzalah_0"
+    },
+    {
+        "text" : "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "translationKey" : "Az-Zalzalah_1_Translation",
+        "transliterationKey" : "Az-Zalzalah_1_Transliteration",
+        "audioFile" : "Az-Zalzalah_1"
+    },
+    {
+        "text" : "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "translationKey" : "Az-Zalzalah_2_Translation",
+        "transliterationKey" : "Az-Zalzalah_2_Transliteration",
+        "audioFile" : "Az-Zalzalah_2"
+    },
+    {
+        "text" : "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+        "translationKey" : "Az-Zalzalah_3_Translation",
+        "transliterationKey" : "Az-Zalzalah_3_Transliteration",
+        "audioFile" : "Az-Zalzalah_3"
+    },
+    {
+        "text" : "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "translationKey" : "Az-Zalzalah_4_Translation",
+        "transliterationKey" : "Az-Zalzalah_4_Transliteration",
+        "audioFile" : "Az-Zalzalah_4"
+    },
+    {
+        "text" : "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+        "translationKey" : "Az-Zalzalah_5_Translation",
+        "transliterationKey" : "Az-Zalzalah_5_Transliteration",
+        "audioFile" : "Az-Zalzalah_5"
+    },
+    {
+        "text" : "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+        "translationKey" : "Az-Zalzalah_6_Translation",
+        "transliterationKey" : "Az-Zalzalah_6_Transliteration",
+        "audioFile" : "Az-Zalzalah_6"
+    },
+    {
+        "text" : "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "translationKey" : "Az-Zalzalah_7_Translation",
+        "transliterationKey" : "Az-Zalzalah_7_Transliteration",
+        "audioFile" : "Az-Zalzalah_7"
+    },
+    {
+        "text" : "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "translationKey" : "Az-Zalzalah_8_Translation",
+        "transliterationKey" : "Az-Zalzalah_8_Transliteration",
+        "audioFile" : "Az-Zalzalah_8"
+    }
+]

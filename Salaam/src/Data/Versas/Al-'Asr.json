@@ -1,0 +1,26 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "Al-'Asr_0_Translation",
+        "transliterationKey" : "Al-'Asr_0_Transliteration",
+        "audioFile" : "Al-'Asr_0"
+    },
+    {
+        "text" : "وَالْعَصْرِ",
+        "translationKey" : "Al-'Asr_1_Translation",
+        "transliterationKey" : "Al-'Asr_1_Transliteration",
+        "audioFile" : "Al-'Asr_1"
+    },
+    {
+        "text" : "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+        "translationKey" : "Al-'Asr_2_Translation",
+        "transliterationKey" : "Al-'Asr_2_Transliteration",
+        "audioFile" : "Al-'Asr_2"
+    },
+    {
+        "text" : "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "translationKey" : "Al-'Asr_3_Translation",
+        "transliterationKey" : "Al-'Asr_3_Transliteration",
+        "audioFile" : "Al-'Asr_3"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translationKey" : "An-Nas_0_Translation",
+        "transliterationKey" : "An-Nas_0_Transliteration",
+        "audioFile" : "An-Nas_0"
+    },
+    {
+        "text" : "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+        "translationKey" : "An-Nas_1_Translation",
+        "transliterationKey" : "An-Nas_1_Transliteration",
+        "audioFile" : "An-Nas_1"
+    },
+    {
+        "text" : "مَلِكِ النَّاسِ",
+        "translationKey" : "An-Nas_2_Translation",
+        "transliterationKey" : "An-Nas_2_Transliteration",
+        "audioFile" : "An-Nas_2"
+    },
+    {
+        "text" : "إِلَٰهِ النَّاسِ",
+        "translationKey" : "An-Nas_3_Translation",
+        "transliterationKey" : "An-Nas_3_Transliteration",
+        "audioFile" : "An-Nas_3"
+    },
+    {
+        "text" : "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+        "translationKey" : "An-Nas_4_Translation",
+        "transliterationKey" : "An-Nas_4_Transliteration",
+        "audioFile" : "An-Nas_4"
+    },
+    {
+        "text" : "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+        "translationKey" : "An-Nas_5_Translation",
+        "transliterationKey" : "An-Nas_5_Transliteration",
+        "audioFile" : "An-Nas_5"
+    },
+    {
+        "text" : "مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "translationKey" : "An-Nas_6_Translation",
+        "transliterationKey" : "An-Nas_6_Transliteration",
+        "audioFile" : "An-Nas_6"
+    }
+]

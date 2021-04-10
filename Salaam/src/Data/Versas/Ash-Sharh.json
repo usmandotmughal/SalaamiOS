@@ -1,0 +1,56 @@
+[
+  {
+    "audioFile" : "Ash-Sharh_0",
+    "text" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "translationKey" : "Ash-Sharh_0_Translation",
+    "transliterationKey" : "Ash-Sharh_0_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_1",
+    "text" : "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "translationKey" : "Ash-Sharh_1_Translation",
+    "transliterationKey" : "Ash-Sharh_1_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_2",
+    "text" : "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+    "translationKey" : "Ash-Sharh_2_Translation",
+    "transliterationKey" : "Ash-Sharh_2_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_3",
+    "text" : "الَّذِي أَنْقَضَ ظَهْرَكَ",
+    "translationKey" : "Ash-Sharh_3_Translation",
+    "transliterationKey" : "Ash-Sharh_3_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_4",
+    "text" : "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "translationKey" : "Ash-Sharh_4_Translation",
+    "transliterationKey" : "Ash-Sharh_4_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_5",
+    "text" : "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "translationKey" : "Ash-Sharh_5_Translation",
+    "transliterationKey" : "Ash-Sharh_5_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_6",
+    "text" : "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "translationKey" : "Ash-Sharh_6_Translation",
+    "transliterationKey" : "Ash-Sharh_6_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_7",
+    "text" : "فَإِذَا فَرَغْتَ فَانْصَبْ",
+    "translationKey" : "Ash-Sharh_7_Translation",
+    "transliterationKey" : "Ash-Sharh_7_Transliteration"
+  },
+  {
+    "audioFile" : "Ash-Sharh_8",
+    "text" : "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+    "translationKey" : "Ash-Sharh_8_Translation",
+    "transliterationKey" : "Ash-Sharh_8_Transliteration"
+  }
+]
